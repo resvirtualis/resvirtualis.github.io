@@ -2,7 +2,7 @@
 
 A list of some notable (*) or interesting papers in DL, with a short description loosely following this MD format
 ```
-'***title, author et al, year**
+'***title, first author et al, year**
 
 - link: <>
 - code: <>
@@ -10,6 +10,7 @@ A list of some notable (*) or interesting papers in DL, with a short description
 - approach:  
 - other:
 ```
+(note: sometimes et al. ommitted for brevity)
 
 ## GANS
 
@@ -251,6 +252,16 @@ by using the annotation information from the simulated data
 -  aim to preserve vector operations (offsets) eg vector(”King”) - vector(”Man”) + vector(”Woman”) = vector that is closest to the vector(Queen) 
 - techniques based on contious bag of word model (predicts current word based on context)
 - continous skip-gram
+
+# applications to medical, bio, chem
+
+**Deep-Learning Based, Automated Segmentation of Macular Edema in Optical Coherence Tomography, lee, bioarxiv, 2017**
+- link <https://www.biorxiv.org/content/biorxiv/early/2017/05/09/135640.full.pdf>
+- summary: macular edema segmentation in OCT 
+-  summary:
+- 1289 OCT scans, DICE $\in [0.0703, 0.911]$, comparable to human performance, 3 annotators
+- U-Net like convnet
+
 
 ### Other themes
 Training practical, transfer learning, generalization
