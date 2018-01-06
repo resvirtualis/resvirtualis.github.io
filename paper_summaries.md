@@ -14,6 +14,11 @@ A list of some notable (*) or interesting papers in DL, with a short description
 
 ## GANS
 
+
+***PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, karras, nvidia, 2018 **
+- link <http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf>
+- summary: train GAN by growing both the generator and discriminator progressively, aka basic autoencoder style
+
 ***Generative adversarial nets, Goodfellow et al, 2014**
 
 - link: <http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf>
@@ -235,6 +240,20 @@ by using the annotation information from the simulated data
  
 ## Segmentation, FCNs
 
+***Densely Connected Convolutional Networks (densenet), Huang, 2017**
+- link<https://arxiv.org/pdf/1608.06993.pdf>
+- code <https://github.com/keras-team/keras-contrib/blob/master/keras_contrib/applications/densenet.py>
+- summary: an extension of sort of resnet in the sense that all layers are connected to all other layers
+- approach:
+- in recent tests outperforms U-Nets
+
+***The One Hundred Layers Tiramisu:
+Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal, 2017**
+- link <https://arxiv.org/pdf/1611.09326.pdf>
+- summary: aka densenet, extension of densenet for semantic segmentation
+- details:
+- outperforms state of the art
+
 ## RCNNs, object detection, tracking
 
 ## Other
@@ -259,8 +278,34 @@ by using the annotation information from the simulated data
 - link <https://www.biorxiv.org/content/biorxiv/early/2017/05/09/135640.full.pdf>
 - summary: macular edema segmentation in OCT 
 -  summary:
-- 1289 OCT scans, DICE $DICE \lt [0.0703, 0.911]$, comparable to human performance, 3 annotators
+- 1289 OCT scans (images), DICE in [0.0703, 0.911], comparable to human performance, 3 annotators
 - U-Net like convnet
+
+**Retinal layers segmentation using Fully Convolutional Network in OCT images, ben-cohen, Tel-Aviv U, 2017**
+- link <http://www.rsipvision.com/wp-content/uploads/2017/06/Retinal-Layers-Segmentation.pdf>
+- summary: OCT segmentation using FCN + 
+-  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
+- patients include also epiretinal membrane (ERM) and Diabetic Macular Edema (DME)
+- 24 OCT, 24 patients, 724 images, DICE in [0.081, 0.95], mean difference in [1.39,2.05]
+- U-Net derivative convnet
+
+**Retinal layers segmentation using Fully Convolutional Network in OCT images, pekala et al, JHU, 2018**
+- link <arxiv>
+- summary: OCT segmentation using FCN (densenet+GP)
+-  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
+- 50 OCT scan, 10 patients, mean difference in [1.06,1.10]
+- on par with human
+- best of bred among 5 commerical/research algorithms of record
+
+**Predicting   Cardiovascular   Risk   Factors   from   Retinal Fundus   Photographs   using   Deep   Learning, pekala et al, google, poppling, .., lili peng, et al, 2017**
+- link <https://arxiv.org/pdf/1708.09843.pdf>
+- summary: predict blood pressure and other information (like age) from fundus images 
+-  summary: using DL  to predict all sort of information from fundus, not specified what network 
+-  train: 284,335  (EyePacs)  patientstest on datasets =   12,026   and   999   patients
+- exceeds human knowledge and DL for scientific discovery
+- back mapping of the image locations / heat maps that were used for estimation
+- performance age error margin = 3.26   years,  gender   (0.97   AUC),   smoking   (0.71 AUC),   HbA1c   (within   1.39%),   systolic   blood   pressure   (within   11.23mmHg),   major cardiac event   (0.70   AUC).  
+
 
 
 ### Other themes
