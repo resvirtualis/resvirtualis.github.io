@@ -259,7 +259,7 @@ by using the annotation information from the simulated data
 - link <https://www.biorxiv.org/content/biorxiv/early/2017/05/09/135640.full.pdf>
 - summary: macular edema segmentation in OCT 
 -  summary:
-- 1289 OCT scans, DICE $$\in [0.0703, 0.911]$$, comparable to human performance, 3 annotators
+- 1289 OCT scans, DICE $DICE \lt [0.0703, 0.911]$, comparable to human performance, 3 annotators
 - U-Net like convnet
 
 
