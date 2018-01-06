@@ -13,8 +13,6 @@ A list of some notable (*) or interesting papers in DL, with a short description
 ```
 (note: sometimes et al. ommitted for brevity)
 
-[TOC]
-
 ## Books
 ***Deep Learning, Goodfellow, Bengio, Courvill, 2016**
 
@@ -412,7 +410,13 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 age-related macular degeneration (AMD)
 - performance: mean error 1.26 pixels in agregagte
 
-### Other themes
+## other medical and DL
+
+***Dermatologist-level classification of skin cancer with deep neural networks, esteva, thrun, Stanford, Nature, 2017**
+- link: <https://www.nature.com/articles/nature21056>
+- summary: DL for classifying skin cancer lesions with dermatologist level performance
+
+# Other themes
 
 Training practical, transfer learning, generalization
 Constrained Nets (quantization, XNOR, ...)
