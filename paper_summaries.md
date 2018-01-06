@@ -1,5 +1,6 @@
 # PAPER SUMMARIES
 
+
 A list of some notable (*) or interesting papers in DL, with a short description loosely following this MD format
 ```
 '***title, first author et al, year**
@@ -12,10 +13,17 @@ A list of some notable (*) or interesting papers in DL, with a short description
 ```
 (note: sometimes et al. ommitted for brevity)
 
+[TOC]
+
+## Books
+***Deep Learning, Goodfellow, Bengio, Courvill, 2016**
+
+- link: http://www.deeplearningbook.org/
+
 ## GANS
 
-
 ***PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, karras, nvidia, 2018 **
+
 - link <http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf>
 - summary: train GAN by growing both the generator and discriminator progressively, aka basic autoencoder style
 
@@ -125,6 +133,18 @@ by using the annotation information from the simulated data
 - build a tree, e.g. a CART based on some features, it should be the case the anomaly stand on their own at the top (because there are few of them and they are distinct)
 - use of forest of these
 
+## object detection, tracking
+
+***Detect to Track and Track to Detect, Feichtenhofer, zisserman, gratz+VGG, ICCV 2017 **
+
+- link: <http://www.robots.ox.ac.uk/~vgg/publications/2017/Feichtenhofer17/feichtenhofer17.pdf>
+- summary: a single CNN dos the job of tracking and detection, 
+ - uses correlation
+features to represent object co-occurrences across time
+-  links frame level detections using across-frame
+tracklets 
+- performance: best in ImageNet VID competition
+
 ## DRL
 
 **Leveraging deep reinforcement learning for reaching robotic tasks, Katyal et al., 2017**
@@ -223,8 +243,7 @@ by using the annotation information from the simulated data
 
 **Cognitive Mapping and Planning for Visual Navigation**
 
--summary:
-- an architecture that learns to map first-person views and plans a sequence of actions towards goals in the environment
+-summary:an architecture that learns to map first-person views and plans a sequence of actions towards goals in the environment
 - approach:
 -  uses unified architecture for mapping and planning, such that the mapping is driven by the needs of the planner, and a spatial memory with the ability to plan given an incomplete set of observations about the world. 
 -  uses value iteration as planning algorithm but crucially use a trainable, differentiable and hierarchical version of value iteration.
@@ -233,6 +252,7 @@ by using the annotation information from the simulated data
 ## RNN, speech, NLP
 
 ***A Knowledge-Grounded Neural Conversation Model, Ghazvininejad et al, 2017**
+
 - link <https://arxiv.org/pdf/1702.01932>
 - summary:
 - approach
@@ -241,6 +261,7 @@ by using the annotation information from the simulated data
 ## Segmentation, FCNs
 
 ***Densely Connected Convolutional Networks (densenet), Huang, 2017**
+
 - link<https://arxiv.org/pdf/1608.06993.pdf>
 - code <https://github.com/keras-team/keras-contrib/blob/master/keras_contrib/applications/densenet.py>
 - summary: an extension of sort of resnet in the sense that all layers are connected to all other layers
@@ -249,10 +270,16 @@ by using the annotation information from the simulated data
 
 ***The One Hundred Layers Tiramisu:
 Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal, 2017**
+
 - link <https://arxiv.org/pdf/1611.09326.pdf>
 - summary: aka densenet, extension of densenet for semantic segmentation
 - details:
 - outperforms state of the art
+
+*** U_nets: Convolutional networks for biomedical image segmentatio, Ronneberger, MICCAI, 2015 **
+
+- link: <https://arxiv.org/pdf/1505.04597.pdf>
+- summary: a popular FCN network for semantic segmentation, with a downsampling/upsampling structure (hence the name U-net) akin to a piramid approach and links from each level to same resolution level in the 'reconstruction' path
 
 ## RCNNs, object detection, tracking
 
@@ -272,9 +299,38 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - techniques based on contious bag of word model (predicts current word based on context)
 - continous skip-gram
 
-# applications to medical, bio, chem
+## retinal applications: AMD detection
+
+***Automated Grading of Age-Related Macular Degeneration From Color Fundus Images Using Deep Convolutional Neural Network, P Burlina, N Joshi, M Pekala, K Pacheco, D Freund, N Bressler, JAMA ophthalmology, 135 (11), 1170-1176, 2017**
+- link: <https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2654969?guestAccessKey=8b7d58b3-4316-4721-9de5-5dec5d3bc62d>
+- summary: referable vs not classification of fundus images via COnvNets
+- details:
+- performance: AUC in [0.94,0.96]
+- testing on dataset between 60K to 130K images
+- testing on over 5664 images
+- accuracy for the (4-, 3-, 2-) class classification problem of (79.4%, 81.5%, 93.4%) for machine vs. (75.8%, 85.0%, 95.2%) for physician
+- meets human performance
+
+***Comparing humans and deep learning performance for grading AMD: A study in using universal deep features and transfer learning for automated AMD analysis, P Burlina, KD Pacheco, N Joshi, DE Freund, NM Bressler,
+Computers in Biology and Medicine 82, 80-86, 2017*
+
+- link: <http://www.sciencedirect.com/science/article/pii/S0010482517300240>
+- summary: 4 class fine classification of AMD based on AREDS grading methods using deep learning/universal features and transfer lerning method
+- performance
+
+## retinal applications: DR detection, referal
+
+**Development and Validation of a Deep Learning System for Diabetic Retinopathy and Related Eye Diseases Using Retinal Images From Multiethnic Populations With Diabetes, Ting, 2017, JAMA**
+
+- link <>
+- summary: DR detection using VGG over large singapore population
+- 3 ethnicities
+- performance: AUC in [0.889,0.983] (n = 40 752 images)
+- performance: AUC = 0.942 for glaucoma
+- performace:  AUC = 0.931 for AMD
 
 **Deep-Learning Based, Automated Segmentation of Macular Edema in Optical Coherence Tomography, lee, bioarxiv, 2017**
+
 - link <https://www.biorxiv.org/content/biorxiv/early/2017/05/09/135640.full.pdf>
 - summary: macular edema segmentation in OCT 
 -  summary:
@@ -282,6 +338,7 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - U-Net like convnet
 
 **Retinal layers segmentation using Fully Convolutional Network in OCT images, ben-cohen, Tel-Aviv U, 2017**
+
 - link <http://www.rsipvision.com/wp-content/uploads/2017/06/Retinal-Layers-Segmentation.pdf>
 - summary: OCT segmentation using FCN + 
 -  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
@@ -290,6 +347,7 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - U-Net derivative convnet
 
 **Retinal layers segmentation using Fully Convolutional Network in OCT images, pekala et al, JHU, 2018**
+
 - link <arxiv>
 - summary: OCT segmentation using FCN (densenet+GP)
 -  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
@@ -297,7 +355,47 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - on par with human
 - best of bred among 5 commerical/research algorithms of record
 
-**Predicting   Cardiovascular   Risk   Factors   from   Retinal Fundus   Photographs   using   Deep   Learning, pekala et al, google, poppling, .., lili peng, et al, 2017**
+## retinal applications: OCT semantic segmentation
+
+**Deep-Learning Based, Automated Segmentation of Macular Edema in Optical Coherence Tomography, lee, bioarxiv, 2017**
+
+- link <https://www.biorxiv.org/content/biorxiv/early/2017/05/09/135640.full.pdf>
+- summary: macular edema segmentation in OCT 
+-  summary:
+- 1289 OCT scans (images), DICE in [0.0703, 0.911], comparable to human performance, 3 annotators
+- U-Net like convnet
+
+**Retinal layers segmentation using Fully Convolutional Network in OCT images, ben-cohen, Tel-Aviv U, perso2017**
+
+- link <http://www.rsipvision.com/wp-content/uploads/2017/06/Retinal-Layers-Segmentation.pdf>
+- link <http://www.rsipvision.com>
+- summary: OCT segmentation using FCN + 
+-  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
+- patients include also epiretinal membrane (ERM) and Diabetic Macular Edema (DME)
+- 24 OCT, 24 patients, 724 images, DICE in [0.081, 0.95], mean difference in [1.39,2.05]
+- U-Net derivative convnet
+
+**Retinal layers segmentation using Fully Convolutional Network in OCT images, pekala et al, JHU, arxiv, 2018**
+
+- link <arxiv>
+- summary: OCT segmentation using FCN (densenet+GP)
+-  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
+- 50 OCT scan, 10 patients, mean difference in [1.06,1.10]
+- on par with human
+- best of bred among 5 commerical/research algorithms of record
+
+**Towards Topological Correct Segmentation of Macular OCT from Cascaded FCNs, He, Prince, Calabresi**
+
+- link: <https://link.springer.com/content/pdf/10.1007%2F978-3-319-67561-9_23.pdf>
+- link: <https://link.springer.com/chapter/10.1007/978-3-319-67561-9_23#Sec1>
+- summary: several flavors of FCNs including a u-net like architecture with feedback to correct topology
+- 15 OCT scans for training and 16 scans for testing, total of over 500 B-scans
+- performance: on par with a reference / classical RF+graph based method
+
+## other DL and retinal
+
+***Predicting   Cardiovascular   Risk   Factors   from   Retinal Fundus   Photographs   using   Deep   Learning, pekala et al, google, poppling, .., lili peng, et al, arxiv 2017**
+
 - link <https://arxiv.org/pdf/1708.09843.pdf>
 - summary: predict blood pressure and other information (like age) from fundus images 
 -  summary: using DL  to predict all sort of information from fundus, not specified what network 
@@ -306,9 +404,16 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - back mapping of the image locations / heat maps that were used for estimation
 - performance age error margin = 3.26   years,  gender   (0.97   AUC),   smoking   (0.71 AUC),   HbA1c   (within   1.39%),   systolic   blood   pressure   (within   11.23mmHg),   major cardiac event   (0.70   AUC).  
 
+**Automatic segmentation of nine retinal layer boundaries in OCT images of non-exudative AMD patients using deep learning and graph search, Fang, biomedical optics express, 2017**
 
+- link <https://www.osapublishing.org/DirectPDFAccess/8E4DDD36-D273-953C-51CE55E74804DB6F_363511/boe-8-5-2732.pdf?da=1&id=363511&seq=0&mobile=no>
+- summary: uses ConvNet + graph search 
+- total 60 volumes (2915 B-scans) from 20 human eyes with non-exudative
+age-related macular degeneration (AMD)
+- performance: mean error 1.26 pixels in agregagte
 
 ### Other themes
+
 Training practical, transfer learning, generalization
 Constrained Nets (quantization, XNOR, ...)
 Bio-inspired methods
