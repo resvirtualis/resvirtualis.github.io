@@ -289,7 +289,7 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - techniques based on contious bag of word model (predicts current word based on context)
 - continous skip-gram
 
-## retinal applications: AMD detection
+## deep learning applications to retinal: AMD detection
 
 ***Automated Grading of Age-Related Macular Degeneration From Color Fundus Images Using Deep Convolutional Neural Network, P Burlina, N Joshi, M Pekala, K Pacheco, D Freund, N Bressler, JAMA ophthalmology, 135 (11), 1170-1176, 2017**
 - link: <https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2654969?guestAccessKey=8b7d58b3-4316-4721-9de5-5dec5d3bc62d>
@@ -309,9 +309,7 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - summary: 4 class fine classification of AMD based on AREDS grading methods using deep learning/universal features and transfer lerning method
 - performance
 
-## retinal applications: DR detection, referral
-
-
+## retinal applications: prevalence of diseases
 
 **The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases**
 - summary: a nice review of statistical prevaslence of the opthalmic and retinal diseases that are the major underpinning causes of blidness and visual impairements with nice stratifications by age, demographci factors, etc
