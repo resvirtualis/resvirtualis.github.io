@@ -11,7 +11,7 @@ A list of some notable (*) or interesting papers in DL, with a short description
 - approach:  
 - other:
 ```
-(note: sometimes et al. ommitted for brevity)
+(notes: the list is definitely not exhaustive nor definitive nor authoritative and a loose living document/sometimes et al. ommitted for brevity)
 
 ## Books
 ***Deep Learning, Goodfellow, Bengio, Courvill, 2016**
@@ -60,6 +60,14 @@ by using the annotation information from the simulated data
 - uses visualization. 
 - other: 
 
+***Deep Photo Style Transfer, Luan et al, 2017**
+
+- link: <http://arxiv.org/pdf/1703.07511v1.pdf>
+- summary: style transfer via CNN, not GAN
+- approach: constrains transformation from input to output to  locally affine in colorspace
+- express that constraint as a custom CNN layer through which they can then backpropagate
+- other:
+
 ## Unsupervised, semi-supervised, X-shot (zero, one, adaptive), generative
 
 *** zero shot learning: the good, the bad and the ugly, 2017**
@@ -100,13 +108,7 @@ by using the annotation information from the simulated data
 - approach:  reminiscent of MRF uses recurrent nets (eg LSTMs) to predict each pixels in a causal fashion.
 - other: 
 
-***Deep Photo Style Transfer, Luan et al, 2017**
 
-- link: <http://arxiv.org/pdf/1703.07511v1.pdf>
-- summary: style transfer via CNN
-- approach: constrains transformation from input to output to  locally affine in colorspace
-- express that constraint as a custom CNN layer through which they can then backpropagate
-- other:
 
 **Auto-encoding variational Bayes, Kingma et al, 2013**
 
@@ -124,12 +126,6 @@ by using the annotation information from the simulated data
 - approach:  
 - other: 
 
-**isolation forest, liu, 2008**
-
-- link <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>
-- summary: an original idea for anomaly detection based on building trees and hypothesizing the anomalies must stand isolated branches close to the root
-- build a tree, e.g. a CART based on some features, it should be the case the anomaly stand on their own at the top (because there are few of them and they are distinct)
-- use of forest of these
 
 ## object detection, tracking
 
@@ -173,14 +169,6 @@ tracklets
 - summary:  object recognition via DCNN is affected by occlusion 
 - approach: provides new dataset that emphasizes occlusion and methods to address this, including preprocessing by segmenting occlusion and inpainting.
 
-## Adverserial
-
-***Deep neural networks are easily fooled: High confidence predictions for unrecognizable images ,  Nguyen et al, 2015**
-
-- link:
-- summary:
-
-
 ## Face
 
 **Neural Face Editing with Intrinsic Image Disentangling, samaras et al, 2017**
@@ -204,7 +192,7 @@ tracklets
 - summary:
 - method:
 
-## Classification
+## other Classification, ML
 
 ***Revisiting Unreasonable Effectiveness of Data in Deep Learning Era, Sun et al., 2017**
 
@@ -215,6 +203,13 @@ tracklets
 	- found that performance increases somewhat logarithmically based on volume of training data. 
 	- pre-training helps
 	- uses JFT-300M Dataset
+
+**isolation forest, liu, 2008**
+
+- link <https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/icdm08b.pdf>
+- summary: an original idea for anomaly detection based on building trees and hypothesizing the anomalies must stand isolated branches close to the root
+- build a tree, e.g. a CART based on some features, it should be the case the anomaly stand on their own at the top (because there are few of them and they are distinct)
+- use of forest of these
 
 **Fast Video Classification via Adaptive Cascading of Deep Models, cvpr 2017, krishamurphy **
 
@@ -245,7 +240,6 @@ tracklets
 - approach:
 -  uses unified architecture for mapping and planning, such that the mapping is driven by the needs of the planner, and a spatial memory with the ability to plan given an incomplete set of observations about the world. 
 -  uses value iteration as planning algorithm but crucially use a trainable, differentiable and hierarchical version of value iteration.
-
 
 ## RNN, speech, NLP
 
@@ -279,8 +273,6 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - link: <https://arxiv.org/pdf/1505.04597.pdf>
 - summary: a popular FCN network for semantic segmentation, with a downsampling/upsampling structure (hence the name U-net) akin to a piramid approach and links from each level to same resolution level in the 'reconstruction' path
 
-## RCNNs, object detection, tracking
-
 ## Other
 
 ***MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Howard et al, 2017**
@@ -309,6 +301,7 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - accuracy for the (4-, 3-, 2-) class classification problem of (79.4%, 81.5%, 93.4%) for machine vs. (75.8%, 85.0%, 95.2%) for physician
 - meets human performance
 
+
 ***Comparing humans and deep learning performance for grading AMD: A study in using universal deep features and transfer learning for automated AMD analysis, P Burlina, KD Pacheco, N Joshi, DE Freund, NM Bressler,
 Computers in Biology and Medicine 82, 80-86, 2017*
 
@@ -316,7 +309,27 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - summary: 4 class fine classification of AMD based on AREDS grading methods using deep learning/universal features and transfer lerning method
 - performance
 
-## retinal applications: DR detection, referal
+## retinal applications: DR detection, referral
+
+
+
+**The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases**
+- summary: a nice review of statistical prevaslence of the opthalmic and retinal diseases that are the major underpinning causes of blidness and visual impairements with nice stratifications by age, demographci factors, etc
+
+
+@article{klein2013prevalence,
+  title={The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases},
+  author={Klein, Ronald and Klein, Barbara EK},
+  journal={Investigative ophthalmology \& visual science},
+  volume={54},
+  number={14},
+  pages={ORSF5--ORSF13},
+  year={2013},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+
+## retinal applications: DR detection, referral
 
 **Development and Validation of a Deep Learning System for Diabetic Retinopathy and Related Eye Diseases Using Retinal Images From Multiethnic Populations With Diabetes, Ting, 2017, JAMA**
 
@@ -327,22 +340,7 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - performance: AUC = 0.942 for glaucoma
 - performace:  AUC = 0.931 for AMD
 
-**Deep-Learning Based, Automated Segmentation of Macular Edema in Optical Coherence Tomography, lee, bioarxiv, 2017**
-
-- link <https://www.biorxiv.org/content/biorxiv/early/2017/05/09/135640.full.pdf>
-- summary: macular edema segmentation in OCT 
--  summary:
-- 1289 OCT scans (images), DICE in [0.0703, 0.911], comparable to human performance, 3 annotators
-- U-Net like convnet
-
-**Retinal layers segmentation using Fully Convolutional Network in OCT images, ben-cohen, Tel-Aviv U, 2017**
-
-- link <http://www.rsipvision.com/wp-content/uploads/2017/06/Retinal-Layers-Segmentation.pdf>
-- summary: OCT segmentation using FCN + 
--  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
-- patients include also epiretinal membrane (ERM) and Diabetic Macular Edema (DME)
-- 24 OCT, 24 patients, 724 images, DICE in [0.081, 0.95], mean difference in [1.39,2.05]
-- U-Net derivative convnet
+## retinal applications: OCT semantic segmentation
 
 **Retinal layers segmentation using Fully Convolutional Network in OCT images, pekala et al, JHU, 2018**
 
@@ -353,7 +351,13 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - on par with human
 - best of bred among 5 commerical/research algorithms of record
 
-## retinal applications: OCT semantic segmentation
+**Automatic segmentation of nine retinal layer boundaries in OCT images of non-exudative AMD patients using deep learning and graph search, Fang, biomedical optics express, 2017**
+
+- link <https://www.osapublishing.org/DirectPDFAccess/8E4DDD36-D273-953C-51CE55E74804DB6F_363511/boe-8-5-2732.pdf?da=1&id=363511&seq=0&mobile=no>
+- summary: uses ConvNet + graph search 
+- total 60 volumes (2915 B-scans) from 20 human eyes with non-exudative
+age-related macular degeneration (AMD)
+- performance: mean error 1.26 pixels in agregagte
 
 **Deep-Learning Based, Automated Segmentation of Macular Edema in Optical Coherence Tomography, lee, bioarxiv, 2017**
 
@@ -373,14 +377,7 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - 24 OCT, 24 patients, 724 images, DICE in [0.081, 0.95], mean difference in [1.39,2.05]
 - U-Net derivative convnet
 
-**Retinal layers segmentation using Fully Convolutional Network in OCT images, pekala et al, JHU, arxiv, 2018**
 
-- link <arxiv>
-- summary: OCT segmentation using FCN (densenet+GP)
--  summary: pairs FCN with graph based, sobel, uses U-Net as FCN
-- 50 OCT scan, 10 patients, mean difference in [1.06,1.10]
-- on par with human
-- best of bred among 5 commerical/research algorithms of record
 
 **Towards Topological Correct Segmentation of Macular OCT from Cascaded FCNs, He, Prince, Calabresi**
 
@@ -402,19 +399,20 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - back mapping of the image locations / heat maps that were used for estimation
 - performance age error margin = 3.26   years,  gender   (0.97   AUC),   smoking   (0.71 AUC),   HbA1c   (within   1.39%),   systolic   blood   pressure   (within   11.23mmHg),   major cardiac event   (0.70   AUC).  
 
-**Automatic segmentation of nine retinal layer boundaries in OCT images of non-exudative AMD patients using deep learning and graph search, Fang, biomedical optics express, 2017**
 
-- link <https://www.osapublishing.org/DirectPDFAccess/8E4DDD36-D273-953C-51CE55E74804DB6F_363511/boe-8-5-2732.pdf?da=1&id=363511&seq=0&mobile=no>
-- summary: uses ConvNet + graph search 
-- total 60 volumes (2915 B-scans) from 20 human eyes with non-exudative
-age-related macular degeneration (AMD)
-- performance: mean error 1.26 pixels in agregagte
 
 ## other medical and DL
 
 ***Dermatologist-level classification of skin cancer with deep neural networks, esteva, thrun, Stanford, Nature, 2017**
 - link: <https://www.nature.com/articles/nature21056>
 - summary: DL for classifying skin cancer lesions with dermatologist level performance
+
+## Adversarial examples
+
+***Deep neural networks are easily fooled: High confidence predictions for unrecognizable images ,  Nguyen et al, 2015**
+- link:
+- summary:
+
 
 # Other themes
 
