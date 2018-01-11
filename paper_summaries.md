@@ -350,6 +350,80 @@ Computers in Biology and Medicine 82, 80-86, 2017**
 - performance: AUC = 0.942 for glaucoma
 - performace:  AUC = 0.931 for AMD
 
+## deep learning and retinal applications: DR detection, referral
+
+***Deep image mining for diabetic retinopathy screening, Quellec, charriere, Boudi, Cochener, Lamard, MIA, 2017**
+- link <>
+- summary: solves referrability of DR, very nica back imaging of activation image location, also very nice sumary of the prior work and state of the art in DL and retina
+- train using EYE PACS
+- performance: AUC= 0.954 in Kaggle’s RY PACS dataset and AUC = 0.949 in e-ophtha
+
+@article{quellec2017deep,
+  title={Deep image mining for diabetic retinopathy screening},
+  author={Quellec, Gwenol{\'e} and Charri{\`e}re, Katia and Boudi, Yassine and Cochener, B{\'e}atrice and Lamard, Mathieu},
+  journal={Medical Image Analysis},
+  volume={39},
+  pages={178--193},
+  year={2017},
+  publisher={Elsevier}
+}
+
+*** Automated Identification of Diabetic Retinopathy Using Deep Learning, Gargeya, Leng, 2017**
+@article{gargeya2017automated,
+  title={Automated Identification of Diabetic Retinopathy Using Deep Learning},
+  author={Gargeya, Rishab and Leng, Theodore},
+  journal={Ophthalmology},
+  year={2017},
+  publisher={Elsevier}
+}
+
+***Improved automated detection of diabetic retinopathy on a publicly available dataset through integration of deep learningdeep learning detection of diabetic retinopathy abramoff, Iowa, 2017**
+- link<>
+- summary: a DL based system for referral of DR
+- used AlexNet or VGG?
+- training on separate dataset (Q)
+- testing: used Messidor 2: digital retinal color images, one fovea-centered image per eye, 874 subjects with diabetes, 1748 images total
+- performance: AUC = 0.980 (95% CI: 0.968–0.992)
+
+
+@article{abramoff2016improved,
+  title={Improved automated detection of diabetic retinopathy on a publicly available dataset through integration of deep learningdeep learning detection of diabetic retinopathy},
+  author={Abramoff, Michael David and Lou, Yiyue and Erginay, Ali and Clarida, Warren and Amelon, Ryan and Folk, James C and Niemeijer, Meindert},
+  journal={Investigative ophthalmology \& visual science},
+  volume={57},
+  number={13},
+  pages={5200--5206},
+  year={2016},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
+
+***Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs, gulshan, lily peng, google, 2017**
+- link<>
+- summary: expanded out annotation of EYE PACS with dozen of other annotators, and used a DCNN to solve for 2 class referability
+- 128 175 retinal images,  graded 3 to 7 times for DR, diabetic macular edema, and image gradability 
+- used a panel of 54 US licensed ophthalmologists
+- performance: AUC=0.991 (95% CI, 0.988-0.993) for EyePACS-1 and AUC=0.990 (95% CI, 0.986-0.995) for Messidor-2
+
+@article{gulshan2016development,
+  title={Development and validation of a deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs},
+  author={Gulshan, Varun and Peng, Lily and Coram, Marc and Stumpe, Martin C and Wu, Derek and Narayanaswamy, Arunachalam and Venugopalan, Subhashini and Widner, Kasumi and Madams, Tom and Cuadros, Jorge and others},
+  journal={Jama},
+  volume={316},
+  number={22},
+  pages={2402--2410},
+  year={2016},
+  publisher={American Medical Association}
+}
+
+
+**Development and Validation of a Deep Learning System for Diabetic Retinopathy and Related Eye Diseases Using Retinal Images From Multiethnic Populations With Diabetes, Ting, SERI, 2017, JAMA**
+
+- link <>
+- summary: DR detection using VGG over large singapore population
+- 3 ethnicities
+- performance: AUC in [0.889,0.983] (n = 40 752 images)
+- performance: AUC = 0.942 for glaucoma
+- performace:  AUC = 0.931 for AMD
 
 
 ## retinal applications: OCT semantic segmentation
