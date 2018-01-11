@@ -14,9 +14,21 @@ A list of some notable (*) or interesting papers in DL, with a short description
 (notes: the list is definitely not exhaustive nor definitive nor authoritative and a loose living document/sometimes et al. ommitted for brevity)
 
 ## Books
+
+*** deep learning with Python, F. Cholet, 2017**
+
+- links <https://www.manning.com/books/deep-learning-with-python>
+- [chapter1](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/1)
+- [chapter 2](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-2/)
+
+
 ***Deep Learning, Goodfellow, Bengio, Courvill, 2016**
 
 - link: http://www.deeplearningbook.org/
+
+***Hands-On Learning with Scikit-Learn and Tensorflow, Aurelien Geron, 2017**
+
+- link: <http://shop.oreilly.com/product/0636920052289.do>
 
 ## GANS
 
@@ -289,7 +301,7 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - techniques based on contious bag of word model (predicts current word based on context)
 - continous skip-gram
 
-## deep learning applications to retinal: AMD detection
+## Deep learning applications to retinal: AMD detection
 
 ***Automated Grading of Age-Related Macular Degeneration From Color Fundus Images Using Deep Convolutional Neural Network, P Burlina, N Joshi, M Pekala, K Pacheco, D Freund, N Bressler, JAMA ophthalmology, 135 (11), 1170-1176, 2017**
 - link: <https://jamanetwork.com/journals/jamaophthalmology/fullarticle/2654969?guestAccessKey=8b7d58b3-4316-4721-9de5-5dec5d3bc62d>
@@ -303,13 +315,13 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 
 
 ***Comparing humans and deep learning performance for grading AMD: A study in using universal deep features and transfer learning for automated AMD analysis, P Burlina, KD Pacheco, N Joshi, DE Freund, NM Bressler,
-Computers in Biology and Medicine 82, 80-86, 2017*
+Computers in Biology and Medicine 82, 80-86, 2017**
 
 - link: <http://www.sciencedirect.com/science/article/pii/S0010482517300240>
 - summary: 4 class fine classification of AMD based on AREDS grading methods using deep learning/universal features and transfer lerning method
 - performance
 
-## retinal applications: prevalence of diseases
+## Retinal applications: prevalence of diseases
 
 **The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases**
 - summary: a nice review of statistical prevaslence of the opthalmic and retinal diseases that are the major underpinning causes of blidness and visual impairements with nice stratifications by age, demographci factors, etc
@@ -327,7 +339,7 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 }
 
 
-## retinal applications: DR detection, referral
+## Deep learning / Retinal applications: DR detection, referral
 
 **Development and Validation of a Deep Learning System for Diabetic Retinopathy and Related Eye Diseases Using Retinal Images From Multiethnic Populations With Diabetes, Ting, 2017, JAMA**
 
@@ -337,6 +349,8 @@ Computers in Biology and Medicine 82, 80-86, 2017*
 - performance: AUC in [0.889,0.983] (n = 40 752 images)
 - performance: AUC = 0.942 for glaucoma
 - performace:  AUC = 0.931 for AMD
+
+
 
 ## retinal applications: OCT semantic segmentation
 
