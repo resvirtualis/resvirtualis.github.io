@@ -15,24 +15,24 @@ A list of some notable (*) or interesting papers in DL, with a short description
 
 ## Books
 
-*** deep learning with Python, F. Cholet, 2017**
+***Deep learning with Python, Cholet, 2017**
 
 - links <https://www.manning.com/books/deep-learning-with-python>
 - [chapter1](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/1)
 - [chapter 2](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-2/)
 
 
-***Deep Learning, Goodfellow, Bengio, Courvill, 2016**
+***Deep Learning, Goodfellow, Bengio, Courville, 2016**
 
 - link: http://www.deeplearningbook.org/
 
-***Hands-On Learning with Scikit-Learn and Tensorflow, Aurelien Geron, 2017**
+***Hands-On Learning with Scikit-Learn and Tensorflow, Geron, 2017**
 
 - link: <http://shop.oreilly.com/product/0636920052289.do>
 
 ## GANS
 
-***PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, karras, nvidia, 2018 **
+***PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, karras, nvidia, 2018**
 
 - link <http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf>
 - summary: train GAN by growing both the generator and discriminator progressively, aka basic autoencoder style
@@ -139,7 +139,7 @@ by using the annotation information from the simulated data
 - other: 
 
 
-## object detection, tracking
+## Object detection, tracking
 
 ***Detect to Track and Track to Detect, Feichtenhofer, zisserman, gratz+VGG, ICCV 2017 **
 
@@ -204,7 +204,7 @@ tracklets
 - summary:
 - method:
 
-## other Classification, ML
+## Other Classification, ML
 
 ***Revisiting Unreasonable Effectiveness of Data in Deep Learning Era, Sun et al., 2017**
 
@@ -285,7 +285,7 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - link: <https://arxiv.org/pdf/1505.04597.pdf>
 - summary: a popular FCN network for semantic segmentation, with a downsampling/upsampling structure (hence the name U-net) akin to a piramid approach and links from each level to same resolution level in the 'reconstruction' path
 
-## Other
+## Other deep learning
 
 ***MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications, Howard et al, 2017**
 
@@ -321,36 +321,9 @@ Computers in Biology and Medicine 82, 80-86, 2017**
 - summary: 4 class fine classification of AMD based on AREDS grading methods using deep learning/universal features and transfer lerning method
 - performance
 
-## Retinal applications: prevalence of diseases
-
-**The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases**
-- summary: a nice review of statistical prevaslence of the opthalmic and retinal diseases that are the major underpinning causes of blidness and visual impairements with nice stratifications by age, demographci factors, etc
 
 
-@article{klein2013prevalence,
-  title={The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases},
-  author={Klein, Ronald and Klein, Barbara EK},
-  journal={Investigative ophthalmology \& visual science},
-  volume={54},
-  number={14},
-  pages={ORSF5--ORSF13},
-  year={2013},
-  publisher={The Association for Research in Vision and Ophthalmology}
-}
-
-
-## Deep learning / Retinal applications: DR detection, referral
-
-**Development and Validation of a Deep Learning System for Diabetic Retinopathy and Related Eye Diseases Using Retinal Images From Multiethnic Populations With Diabetes, Ting, 2017, JAMA**
-
-- link <>
-- summary: DR detection using VGG over large singapore population
-- 3 ethnicities
-- performance: AUC in [0.889,0.983] (n = 40 752 images)
-- performance: AUC = 0.942 for glaucoma
-- performace:  AUC = 0.931 for AMD
-
-## deep learning and retinal applications: DR detection, referral
+## Deep learning applications to retinal: DR detection, referral
 
 ***Deep image mining for diabetic retinopathy screening, Quellec, charriere, Boudi, Cochener, Lamard, MIA, 2017**
 - link <>
@@ -426,7 +399,7 @@ Computers in Biology and Medicine 82, 80-86, 2017**
 - performace:  AUC = 0.931 for AMD
 
 
-## retinal applications: OCT semantic segmentation
+## Deep learning applications to retinal: OCT semantic segmentation
 
 **Retinal layers segmentation using Fully Convolutional Network in OCT images, pekala et al, JHU, 2018**
 
@@ -485,7 +458,22 @@ age-related macular degeneration (AMD)
 - back mapping of the image locations / heat maps that were used for estimation
 - performance age error margin = 3.26   years,  gender   (0.97   AUC),   smoking   (0.71 AUC),   HbA1c   (within   1.39%),   systolic   blood   pressure   (within   11.23mmHg),   major cardiac event   (0.70   AUC).  
 
+## Othert retinal: prevalence of diseases
 
+**The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases**
+- summary: a nice review of statistical prevaslence of the opthalmic and retinal diseases that are the major underpinning causes of blidness and visual impairements with nice stratifications by age, demographci factors, etc
+
+
+@article{klein2013prevalence,
+  title={The Prevalence of Age-Related Eye Diseases and Visual Impairment in Aging: Current EstimatesPrevalences of Age-Related Eye Diseases},
+  author={Klein, Ronald and Klein, Barbara EK},
+  journal={Investigative ophthalmology \& visual science},
+  volume={54},
+  number={14},
+  pages={ORSF5--ORSF13},
+  year={2013},
+  publisher={The Association for Research in Vision and Ophthalmology}
+}
 
 ## other medical and DL
 
