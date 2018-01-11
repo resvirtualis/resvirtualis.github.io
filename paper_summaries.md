@@ -82,7 +82,7 @@ by using the annotation information from the simulated data
 
 ## Unsupervised, semi-supervised, X-shot (zero, one, adaptive), generative
 
-*** zero shot learning: the good, the bad and the ugly, 2017**
+***zero shot learning: the good, the bad and the ugly, 2017**
 
 - link <>
 - summary: evaluates performance of various ZS approaches. 
@@ -223,7 +223,7 @@ tracklets
 - build a tree, e.g. a CART based on some features, it should be the case the anomaly stand on their own at the top (because there are few of them and they are distinct)
 - use of forest of these
 
-**Fast Video Classification via Adaptive Cascading of Deep Models, cvpr 2017, krishamurphy **
+**Fast Video Classification via Adaptive Cascading of Deep Models, cvpr 2017, krishamurphy**
 
 - summary: 
 - approach:
@@ -350,7 +350,7 @@ Computers in Biology and Medicine 82, 80-86, 2017**
   publisher={Elsevier}
 }
 
-***Improved automated detection of diabetic retinopathy on a publicly available dataset through integration of deep learningdeep learning detection of diabetic retinopathy abramoff, Iowa, 2017**
+***Improved automated detection of diabetic retinopathy on a publicly available dataset through integration of deep learningdeep learning detection of diabetic retinopathy Abramoff, Iowa, 2017**
 - link<>
 - summary: a DL based system for referral of DR
 - used AlexNet or VGG?
