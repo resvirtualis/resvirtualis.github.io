@@ -7,4 +7,4 @@
 
 # CV
 
-[cv](./burlina_short_cv.pdf)
+[cv](./burlina_2018_short.pdf)
