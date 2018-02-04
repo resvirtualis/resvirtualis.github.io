@@ -11,7 +11,7 @@
 
 ### contact
 
-philippe [(dot)] burlina ([hat]) gee mail ([dot]) com
+philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
 ### Current position
 
