@@ -11,7 +11,7 @@
 
 ### contact
 
-P bee you are L eye N A ([hat]) gee mail ([dot]) com
+philippe [(dot)] burlina ([hat]) gee mail ([dot]) com
 
 ### Current position
 
