@@ -301,6 +301,22 @@ Fully Convolutional DenseNets for Semantic Segmentation, Jegou, Bengio, Montreal
 - techniques based on contious bag of word model (predicts current word based on context)
 - continous skip-gram
 
+
+## other machine learning
+
+**http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf, Breunig, 2000**
+- (paper)[http://www.dbs.ifi.lmu.de/Publikationen/Papers/LOF.pdf]
+- (code)[http://scikit-learn.org/stable/auto_examples/neighbors/plot_lof.html]
+- summary: anomaly detection method based on comparing the local density of a point compared to its neighbors, based on knn like concepts
+- details
+- It computes an anomaly score based on assessing the local density of points around at test point when compared to same density measures applied to its neighbors. Intuitively if that density is lesser than its neighbors the point may be an outlier. 
+- The LOF of a feature point X is a factor taking into account the MinPts k value, which consists of the nearest neighbors defining the local neighborhood of X
+- Considering first the k-distance d^k(X) of X, to that of its k-th nearest neighbor, and noting L_k(X) the set of points within d^k(X), one defines the reachability distance of X from an origin O  for k to be R_k(X,O)=max(d(X,O),d_k(O)
+- to characterize density, one defines the local reachability density lrd(X) by taking the inverse of the average reachability distance of all points O in L_k(X). 
+- Finally to compare densities, the LOF(X) is defined as the average of the the lrd(.) of all points in L_k(X) divided by lrd(X). this ratio compares average local densities of the neighbors of X compared to the local density of X. 
+- Intuitively if this value is higher then the point X is less dense (less reachable by its neighbors than the neighbors are by their own neighbors), and is therefore an outlier.
+
+
 ## Deep learning applications to retinal: AMD detection
 
 ***Automated Grading of Age-Related Macular Degeneration From Color Fundus Images Using Deep Convolutional Neural Network, P Burlina, N Joshi, M Pekala, K Pacheco, D Freund, N Bressler, JAMA ophthalmology, 135 (11), 1170-1176, 2017**
