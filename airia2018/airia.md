@@ -1,10 +1,20 @@
 ![alt text](https://resvirtualis.github.io/airia2018/AIRIA_4.png "Logo AIRIA")
 
+![alt text](http://accv2018.net/wp-content/uploads/ACCV-logotype-missing-font-1.png)
+
 ### First workshop on artificial intelligence applied to retinal image analysis
 
- 
+To be held 
+in conjunction with the 
+[Asian Conference on Computer Vision 2018](http://accv2018.net)
+
+Perth, Australia, Sunday December 2, 2018 (afternoon session)
+[(WP#9, Level 2 River View
+Room 5)](http://accv2018.net/program/#workshops)
 
  
+
+#CALL FOR PAPERS
 
 #### About the workshop
 
@@ -12,13 +22,16 @@ Medical imaging has now embraced AI methods based on deep learning (DL) approach
 
  
 
-#### Objectives and scope
+#### Scope and topics of interest
 
 - automated and semi-automated diagnostics in retinal imaging including for DR, AMD, ROP, ...
 
-- other ophthalmic conditions diagnostics (cataract, glaucoma, etc..)
 
-- datasets and annotations
+- analysis of other ophthalmic conditions diagnostics (cataract, glaucoma, etc..)
+
+- fine grained severity grading
+
+- datasets and annotations tools and techniques
 
 - validation methods
 
@@ -26,85 +39,111 @@ Medical imaging has now embraced AI methods based on deep learning (DL) approach
 
 - generative methods
 
-- adversarial methods and their implications
+- adversarial methods and implications
 
 - teleophthalmology
 
 - multi-modality: OCT, fundus, FAF, hyperspectral, etc..
 
- 
+- hardware and software systems and toolkits for intelligent retinal image analysis
 
  
 
-#### Dates and deadlines
+ 
 
-- Paper submission deadline    Oct 15    
+#### Important dates
 
-- Notification of acceptance   Nov 15
+- **Paper submission deadline:    Sept 30**  
 
-- Final camera-ready paper submission deadline     Nov 23
+- Notification of acceptance:   Oct 19
+
+- Camera-ready deadline:     Nov 2
 
 - AIRIA  workshop: Dec 2
+
+- main conference dates: Dec 4-6
 
  
 
 #### Paper submission
 
-- Long form papers for oral presentations to follow the same format as ACCV and a maximum of 8 pages (LNCS)
+- Long form papers for oral presentations to follow the same format as ACCV and a maximum of 8 pages (LNCS, see below) + 2 pages references
 
 - Short form papers for posters presentations to follow the LNCS format with a maximum length of 2 pages
 
-- paper submission site URL at CMT3 to be announced
 
- 
+- Paper format should follow  [guidelines for ACCV2018 paper submission](http://accv2018.net/call-for-papers/#guidelines)
 
-#### Invited talks
+#### Guidelines ####
 
-Dr. Daniel Ting Shu Wei (SingHealth/SERI, Singapore), TBA talk on recent development in AI applied to retinal imaging
+- All submissions to be handled electronically via CMT Website (link TBA)
+
+- A complete paper should be submitted using the following:
+
+ - Submission should be blind amd use the blind-submission review-formatted templates
+
+ - Paper submission [detailed instructions](http://accv2018.net/wp-content/uploads/accv2018submission.pdf) 
+
+ - [LaTeX Templates](https://aiaesthetics.github.io/accv2018kit.zip)
+
+
+ - Papers which violate page limits will be rejected
+
+- See paper submission deadlines above
+
+#### Proceedings publication ####
+
+Accepted and presented papers will be published after the conference in [Springer’s Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs?countryChanged=true)
+
+#### Workshop registration ####
+
+To have your paper included in the proceedings at least one of the authors must be registered at a full registration rate
+
+The workshop registration is via the main ACCV 2018 conference registration pages.
 
  
 
 #### Workshop organization
 
- 
+Philippe Burlina  (JHU, USA)
 
-- N. Bressler (JHU/Wilmer Eye Institute, USA)
+Neil Bressler (JHU/Wilmer Eye Institute, USA)
 
-- P. Burlina  (JHU, USA)
+Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
 
-- Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
+Daniel Ting Shu Wei (SingHealth /SERI, Singapore)
 
-- Daniel Ting Shu Wei (SingHealth /SERI, Singapore)
-
-- Tien Y Wong (SingHealth /SERI, Singapore)
+Tien Y Wong (SingHealth /SERI, Singapore)
 
  
 
-#### Technical Committee
+#### Technical committee
 
-- Neil Joshi (JHU, USA)
 
-- Neil Bressler (JHU, USA)
+Neil Bressler (JHU, USA)
 
-- Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
+Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
 
-- Jun Kong (Department of Ophthalmology, The Fourth Affiliated Hospital of China Medical University, Eye Hospital of China Medical University" should be "Department of Ophthalmology," the rest is correct.)
+Jun Kong (Department of Ophthalmology, 4th Affiliated Hospital of China Medical University, Eye Hospital of China Medical University, China)
 
-- Katia Pacheco (Brasilian Center of Vision Eye Hospital - Brasília- Brazil)
+Katia Pacheco (Brasilian Center of Vision Eye Hospital Brasília, Brazil)
 
-- Michael Kalloniatis (UNSW, AU)
+Michael Kalloniatis (UNSW, AU)
 
-- Alvin Tian (JHU/Wilmer Eye Institute, USA)
+Alvin Tian (JHU/Wilmer Eye Institute, USA)
 
-- Tien Y Wong (SingHealth /SERI, Singapore)
+Tien Y Wong (SingHealth /SERI, Singapore)
 
-- Daniel Ting Shu Wei (SingHealth /SERI, Singapore)
+Daniel Ting Shu Wei (SingHealth /SERI, Singapore)
 
- 
+Neil Joshi (JHU, USA)
 
-#### Program
 
- 
+#### Program details
+
 
 To be announced.
 
+#### Invited talks
+
+Dr. Daniel Ting Shu Wei (SingHealth/SERI, Singapore), TBA talk on recent development in AI applied to retinal imaging
