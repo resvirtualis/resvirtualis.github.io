@@ -2,6 +2,7 @@
 
 ![alt text](http://accv2018.net/wp-content/uploads/ACCV-logotype-missing-font-1.png)
 
+
 ### First workshop on artificial intelligence applied to retinal image analysis
 
 To be held 
