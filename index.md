@@ -11,6 +11,14 @@
 
 [about](./about.html)
 
+# Recent/news
+
+- Announcing the first workshop on artificial intelligence for retinal image analysis [AIRIA 2018](https://resvirtualis.github.io/airia2018/) to be held in conjunction with [ACCV 2018](http://accv2018.net) in Perth, AU.
+
+- [APTOS 2018](http://2018.asiateleophth.org/invited-faculty/)  
+
+- [ARVO 2018 special interest group meeting on AI for retinal imaging](https://www.arvo.org/annual-meeting/program/special-interest-group-meetings/)
+
 # Work/Research/Projects
 
 ### Zero / X-shot learning / learning in low training data regimes
