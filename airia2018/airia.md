@@ -6,8 +6,7 @@
 # First workshop on artificial intelligence applied to retinal image analysis 
 
 
-To be held 
-in conjunction with the 
+To be held in conjunction with the 
 [Asian Conference on Computer Vision 2018](http://accv2018.net)
 
 Perth, Australia, Sunday December 2, 2018 (afternoon session)
