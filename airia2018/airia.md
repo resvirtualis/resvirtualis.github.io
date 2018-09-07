@@ -122,6 +122,8 @@ Tien Y Wong (SingHealth /SERI, Singapore)
 ### Technical committee
 
 
+Philippe Burlina (JHU, APL, CS, USA)
+
 Neil Bressler (JHU, USA)
 
 Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
@@ -129,6 +131,8 @@ Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
 Jun Kong (Department of Ophthalmology, 4th Affiliated Hospital of China Medical University, Eye Hospital of China Medical University, China)
 
 Katia Pacheco (Brasilian Center of Vision Eye Hospital Brasília, Brazil)
+
+Lily Peng (Google Research and Verily, USA)
 
 Michael Kalloniatis (UNSW, AU)
 
