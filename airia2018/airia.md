@@ -19,34 +19,34 @@ Room 5)](http://accv2018.net/program/#workshops)
 
 ### About the workshop
 
-Medical imaging has now embraced AI methods based on deep learning (DL) approaches for medical image analytics. This has been especially true for retinal image analysis where large annotated datasets have been available for over 10 years. Recent studies starting in  2016 have demonstrated on par with human performance for diagnostic tasks such as screening for diabetic retinopathy and macular degeneration. Recently, in 2018, the FDA approved the first software device for retinal diagnostics. The goal of this workshop is to showcase recent developments in retinal image analysis and as a follow up on recent meetings at ARVO 2018 and APTOS 2018, and to bring together practitioners from different horizons that are interested in the development and application of AI and deep learning techniques to retinal imaging, including specialists from machine learning, deep learning, computer vision, ophthalmology, optometry, retinal specialists from academia and industry. While the focus of this workshop is primarily on retinal image analytics, the workshop will also address other main causes of blindness, such as cataract and glaucoma. The workshop will include invited talks as well as oral and poster submissions.
+Medical imaging has now embraced AI methods based on deep learning (DL) approaches for medical image analytics. This has been especially true for retinal image analysis where large annotated datasets have been available for over 10 years. Recent studies starting in  2016 have demonstrated on par with human performance for diagnostic tasks such as screening for diabetic retinopathy and macular degeneration. Recently, in 2018, the FDA approved the first software device for retinal diagnostics. The goal of this workshop is to showcase recent developments in AI for retinal image analysis and as a follow up on recent meetings at ARVO 2018 and APTOS 2018, and to bring together practitioners from different horizons that are interested in the development and application of AI and deep learning techniques to retinal imaging, including specialists from machine learning, deep learning, computer vision, ophthalmology, optometry, retinal specialists from academia and industry. While the focus of this workshop is primarily on retinal image analytics, the workshop will also address other main causes of blindness, such as cataract and glaucoma. The workshop will include invited talks as well as oral and poster submissions.
 
  
 
 ### Scope and topics of interest
 
-- automated and semi-automated diagnostics in retinal imaging including for diabetic retinopathy (DR), age-related macular degeneration (AMD), retinopathy of prematurity (ROP), ...
+- AI-based automated and semi-automated diagnostics in retinal imaging including for diabetic retinopathy (DR), age-related macular degeneration (AMD), retinopathy of prematurity (ROP), ...
 
 
 - analysis of other ophthalmic conditions diagnostics (cataract, glaucoma, etc..)
 
 - fine grained severity grading
 
-- datasets and annotations tools and techniques
+- datasets and annotations tools and techniques for deep learning
 
 - validation methods
 
-- deployment to actual clinical scenarios and challenges
+- deployment of AI to actual clinical scenarios and challenges
 
 - generative methods
 
 - adversarial methods and implications
 
-- teleophthalmology
+- applications of AI to teleophthalmology
 
-- multi-modality: OCT, fundus, FAF, hyperspectral, etc..
+- multi-modality applications of AI: OCT, fundus, FAF, hyperspectral, etc..
 
-- hardware and software systems and toolkits for intelligent retinal image analysis
+- hardware and software systems and toolkits for AI-based retinal image analysis
 
  
 
@@ -64,31 +64,28 @@ Medical imaging has now embraced AI methods based on deep learning (DL) approach
 
 - main conference dates: Dec 4-6
 
- 
+### Submission 
 
-### Paper submission
+Submissions are be handled electronically via this [AIRIA 2018 paper submission Website](https://cmt3.research.microsoft.com/AIRIA2018/)
 
-- Long form papers for oral presentations to follow the same format as ACCV and a maximum of 8 pages (LNCS, see below) + 2 pages references
+### Guidelines for paper submission
 
-- Short form papers for posters presentations to follow the Lecture Notes in Computer Science format with a maximum length of 2 pages
+- Papers intended for preferred oral presentations to follow the same format as ACCV and a maximum of 14 pages and using LNCS format (see below) excluding pages for references
+
+- Papers for posters presentations to follow the Lecture Notes in Computer Science format with a recommended length of 4 pages and not to exceeed maximum length of 14 pages excluding references
 
 
-- Paper format should follow  [guidelines for ACCV2018 paper submission](http://accv2018.net/call-for-papers/#guidelines)
+- Paper format should follow the [guidelines for ACCV2018 paper submission](http://accv2018.net/call-for-papers/#guidelines) including
 
-### Guidelines 
 
-- All submissions to be handled electronically via CMT Website (link TBA)
 
-- A complete paper should be submitted using the following:
-
- - Submission should be blind and use the blind-submission review-formatted templates
 
  - Paper submission [detailed instructions](http://accv2018.net/wp-content/uploads/accv2018submission.pdf) 
 
  - [LaTeX Templates](https://aiaesthetics.github.io/accv2018kit.zip)
 
 
- - Papers which violate page limits will be rejected
+ - Papers which go over page limits will be not be considered
 
 - See paper submission deadlines above
 
@@ -96,9 +93,9 @@ Medical imaging has now embraced AI methods based on deep learning (DL) approach
 
 Accepted and presented papers will be published after the conference in [Springer’s Lecture Notes in Computer Science](https://www.springer.com/gp/computer-science/lncs?countryChanged=true)
 
-### Workshop registration ####
+### Workshop registration
 
-To have your paper included in the proceedings at least one of the authors must be registered at a full registration rate
+To have your paper included in the proceedings at least one of the authors must be registered at a full registration rate and attend the workshop.
 
 The workshop registration is via the [main ACCV 2018 conference registration pages](http://accv2018.net/attending/#_registration).
 
@@ -106,11 +103,13 @@ The workshop registration is via the [main ACCV 2018 conference registration pag
 
 ### Workshop organization
 
-Philippe Burlina  (JHU, USA)
+Philippe Burlina  (JHU, APL, CS, USA)
 
 Neil Bressler (JHU/Wilmer Eye Institute, USA)
 
 Mingguang He (University of Melbourne, Centre for Eye Research Australia)
+
+Lily Peng (Google Research and Verily, USA)
 
 Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
 
@@ -149,4 +148,4 @@ To be announced.
 
 ### Invited talks
 
-Dr. Daniel Ting Shu Wei (SingHealth/SERI, Singapore), TBA talk on recent development in AI applied to retinal imaging
+Dr. Daniel Ting Shu Wei (SingHealth/SERI, Singapore), "Recent developments in AI applied to retinal imaging"
