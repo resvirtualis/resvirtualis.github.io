@@ -121,32 +121,28 @@ Tien Y Wong (SingHealth /SERI, Singapore)
 
 ### Technical committee
 
+Gregory Hager (Director, Malone Center for Engineering in Healthcare, and Dept. of Computer Science and Director, Johns Hokins University, USA)
 
-Philippe Burlina (JHU, APL, CS, USA)
+Jerry Prince, (Professor, Dept. of Electrical Engineering, Johns Hokins University, USA)
 
-Neil Bressler (JHU, USA)
+Philippe Burlina (APL/CS, Johns Hopkins University, USA)
+
+Neil Bressler (Wilmer Eye INstitute, Johns Hopkins University, USA)
 
 Delia Cabrera DeBuc (Bascom Palmer Eye Institute.
 University of Miami Miller School of Medicine, USA)
 
-Gavin Tan Siew Wei (SingHealth, SEI, Singapore)
-
 Jun Kong (Department of Ophthalmology, 4th Affiliated Hospital of China Medical University, Eye Hospital of China Medical University, China)
-
-Katia Pacheco (Brasilian Center of Vision Eye Hospital Brasília, Brazil)
 
 Lily Peng (Google Research and Verily, USA)
 
-Michael Kalloniatis (UNSW, AU)
-
 T. Y. Alvin Liu (JHU/Wilmer Eye Institute, USA)
 
-Tien Y Wong (SingHealth /SERI, Singapore)
+Neil Joshi (JHU/APL, USA)
 
 Daniel Ting Shu Wei (SingHealth /SERI, Singapore)
 
-Neil Joshi (JHU, USA)
-
+Tien Y Wong (SingHealth /SERI, Singapore)
 
 ### Program details
 
