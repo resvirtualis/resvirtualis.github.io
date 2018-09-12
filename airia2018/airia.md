@@ -125,6 +125,8 @@ Gregory Hager (Director, Malone Center for Engineering in Healthcare, and Dept. 
 
 Jerry Prince, (Professor, Dept. of Electrical Engineering, Johns Hokins University, USA)
 
+Adrian Galdran (ISTEC, Institute for Systems and Computer Engineering, Technology and Science, Portugal, and Ecole de Technologie Superieure, CA)
+
 Philippe Burlina (APL/CS, Johns Hopkins University, USA)
 
 Neil Bressler (Wilmer Eye INstitute, Johns Hopkins University, USA)
