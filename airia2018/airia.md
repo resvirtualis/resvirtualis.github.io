@@ -158,9 +158,9 @@ Daniel Ting Shu Wei, MD, PhD, (SingHealth/SERI, Singapore), "Recent developments
 Delia Cabrera DeBuc, PhD, (Bascom Palmer Eye Institute,
 University of Miami Miller School of Medicine, USA)
 
-Yogesan Kanagasingam, MD, PhD (The Australian Ehealth Research Center, Commonwealth Scientific and Industrial Research Organisation (CSIRO), AU)
+Yogesan Kanagasingam, PhD (The Australian Ehealth Research Center, Commonwealth Scientific and Industrial Research Organisation (CSIRO), AU)
 
-Stuart Keel, PhD, (Center for Eye Research, and WHO centre for the prevention of Blindness, University of Melbourne, AU)
+Stuart Keel, PhD, (Centre for Eye Research Australia, University of Melbourne, AU)
 
 
 
