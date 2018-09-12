@@ -153,12 +153,12 @@ To be announced.
 
 ### Featured/invited talks
 
-Daniel Ting Shu Wei, MD, PhD, (SingHealth/SERI, Singapore), "Recent developments in AI applied to retinal imaging"
+Daniel Ting Shu Wei, MD, PhD, (SingHealth/SERI, Singapore), "A survey of applications of AI to retinal imaging"
 
 Delia Cabrera DeBuc, PhD, (Bascom Palmer Eye Institute,
-University of Miami Miller School of Medicine, USA)
+University of Miami Miller School of Medicine, USA), "Recent developments in retinal analysis for individuals with Alzheimer disease and potential AI applications"
 
-Yogesan Kanagasingam, PhD (The Australian Ehealth Research Center, Commonwealth Scientific and Industrial Research Organisation (CSIRO), AU)
+Yogesan Kanagasingam, PhD, (The Australian Ehealth Research Center, Commonwealth Scientific and Industrial Research Organisation (CSIRO), AU), "Deployment of AI based screening for diabetic retinopathy in real-world primary care ​clinical settings"
 
 Stuart Keel, PhD, (Centre for Eye Research Australia, University of Melbourne, AU)
 
