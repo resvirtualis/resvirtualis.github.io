@@ -148,36 +148,36 @@ Tien Y Wong (SingHealth /SERI, Singapore)
 
 ### Program details, featured and invited talks
 
-Daniel Ting Shu Wei, MD, PhD, (SingHealth/SERI, Singapore)
-Title: AI for Ophthalmology: Where are we now? Where is next?
+Daniel Ting Shu Wei, MD, PhD, (SingHealth/SERI, Singapore).
+Title: "AI for Ophthalmology: Where are we now? Where are we going next?"
  
-Angus Turner, MD, PhD (Lions Eye Institute, University of Western Australia, AU)
-Title: The Application of AI for Indigenous Population and Tele-Health in Australia
+Angus Turner, MD, PhD, (Lions Eye Institute, University of Western Australia, AU).
+Title: "The Application of AI for Indigenous Population and Tele-Health in Australia"
  
-Gavin Tan, MD (SingHealth/SERI, Singapore)
-Title: The implementation of AI in the Singapore Integrated Diabetic Retinopathy Screening Program
+Gavin Tan, MD, (SingHealth/SERI, Singapore).
+Title: "Implementation of AI in the Singapore Integrated Diabetic Retinopathy Screening Program"
  
-Stuart Keel, PhD, (Centre for Eye Research Australia, University of Melbourne, AU)
-Title: AI for DR Screening in Australia
+Stuart Keel, PhD, (Centre for Eye Research Australia, University of Melbourne, AU).
+Title: "AI for DR Screening in Australia"
  
-Yogesan Kanagasingam, PhD, (The Australian Ehealth Research Center, Commonwealth Scientific and Industrial Research Organisation (CSIRO), AU)
-Title: Deployment of AI based screening for diabetic retinopathy in real-world primary care clinical settings
+Yogesan Kanagasingam, PhD, (The Australian Ehealth Research Center, Commonwealth Scientific and Industrial Research Organisation (CSIRO), AU).
+Title: "Deployment of AI-based screening for diabetic retinopathy in real-world primary care clinical settings"
  
 Valentina Bellemo MSc (SingHealth/SERI, Singapore)
-Title: The application of AI for DR screening in the low income countries
+Title: "Application of AI for DR screening in low income countries"
  
-David Andrews, PhD, MBA (exec) (Chief Executive Officer, The Royal Australian and New Zealand College of Ophthalmologists)
-Title: How RANZCO is positioning for the impact of AI on patient management 
+David Andrews, PhD, MBA (exec) (Chief Executive Officer, The Royal Australian and New Zealand College of Ophthalmologists).
+Title: "How RANZCO is positioning for the impact of AI on patient management"
 
 Delia Cabrera DeBuc, PhD, (Bascom Palmer Eye Institute,
-University of Miami Miller School of Medicine, USA)
-Title: Recent developments in retinal analysis for individuals with Alzheimer disease and potential AI applications"
+University of Miami Miller School of Medicine, USA).
+Title: "Recent developments in retinal analysis for individuals with Alzheimer disease and potential AI applications"
  
-Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore)
-Title: The Technical and Clinical Challenge of Deep Learning for Ophthalmology
+Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore).
+Title: "The Technical and Clinical Challenge of Deep Learning for Ophthalmology"
  
-Tien Y Wong, MD, PhD (SingHealth/SERI, Singapore)
-Title: The Importance of AI Applications in Ophthalmology
+Tien Y Wong, MD, PhD (SingHealth/SERI, Singapore).
+Title: "The Importance of Artificial Intelligence Applications in Ophthalmology"
 
 
 
