@@ -54,7 +54,7 @@ Medical imaging has now embraced AI methods based on deep learning (DL) approach
 
 ### Important dates
 
-- **Paper submission deadline:    Sept 30**  
+- **Paper submission deadline:  Oct 9**  <s> Sept 30 </s>  
 
 - Notification of acceptance:   Oct 19
 
