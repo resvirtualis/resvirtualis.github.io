@@ -151,6 +151,8 @@ Tien Y Wong (SingHealth /SERI, Singapore)
 Daniel Ting Shu Wei, MD, PhD, (SingHealth/SERI, Singapore).
 Title: "AI for Ophthalmology: Where are we now? Where are we going next?"
  
+Valentina Bellemo, (SERI, Singapore). Generative Adversarial Networks (GANs) for the Synthesis of Retinal Fundus Images
+ 
 Angus Turner, MD, PhD, (Lions Eye Institute, University of Western Australia, AU).
 Title: "The Application of AI for Indigenous Population and Tele-Health in Australia"
  
@@ -174,7 +176,7 @@ University of Miami Miller School of Medicine, USA).
 Title: "Recent developments in retinal analysis for individuals with Alzheimer disease and potential AI applications"
  
 Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore).
-Title: "The Technical and Clinical Challenge of Deep Learning for Ophthalmology"
+Title: "Generalization and Casuality in A.I. Modelling"
  
 Tien Y Wong, MD, PhD (SingHealth/SERI, Singapore).
 Title: "The Importance of Artificial Intelligence Applications in Ophthalmology"
