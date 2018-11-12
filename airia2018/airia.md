@@ -140,7 +140,7 @@ Lily Peng (Google Research and Verily, USA)
 
 T. Y. Alvin Liu (JHU/Wilmer Eye Institute, USA)
 
-Neil Joshi (JHU/APL, USA)
+[//]: # (Neil Joshi (JHU/APL, USA))
 
 Daniel Ting Shu Wei (SingHealth /SERI, Singapore)
 
@@ -198,8 +198,7 @@ Delia Cabrera DeBuc, PhD, (Bascom Palmer Eye Institute,
 University of Miami Miller School of Medicine, USA).
 Title: "Recent developments in retinal analysis for individuals with Alzheimer disease and potential AI applications"
  
-[//]: # (Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore).
-Title: "Generalization and Casuality in A.I. Modelling")
+[//]: # (Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore).Title: "Generalization and Casuality in A.I. Modelling")
  
 [//]: # (Tien Y Wong, MD, PhD (SingHealth/SERI, Singapore). Title: "The Importance of Artificial Intelligence Applications in Ophthalmology")
 
