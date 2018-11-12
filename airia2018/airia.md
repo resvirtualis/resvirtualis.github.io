@@ -14,8 +14,9 @@ Perth, Australia, Sunday December 2, 2018 (afternoon session)
 Room 5)](http://accv2018.net/program/#workshops)
 
  
+# [TENTATIVE PROGRAM](./AIRIA2018_PROGRAM.pdf)
 
-#CALL FOR PAPERS
+
 
 ### About the workshop
 
@@ -158,14 +159,14 @@ SEE THE [TENTATIVE PROGRAM HERE](./AIRIA2018_PROGRAM.pdf)
 13:30-15:30: session 2: clinical/invited presentations
 
 
+Note that there may be some last minute modifications of the schedule because of unforeseen changes in availability of our speakers etc. 
 
-Note that there may be some last minute modifications of the schedule becasue of unforseen changes in avaialbility of our speakers etc. 
+Please check this program link closer to December 2nd to confirm times. 
 
-Please check this program link closer to dec 2nd to confirm times. 
 
 Speakers please come in advance of the workshop start time (15 mins) to upload your presentations slides.
 
-all presentations are 15 minutes including 2 mins for Q/A. Duration strictly enforced.
+All presentations are 15 minutes including 2 mins for Q/A. Duration strictly enforced.
 
 Workshop registration opens at 8:30
 
