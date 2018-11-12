@@ -149,7 +149,7 @@ Tien Y Wong (SingHealth /SERI, Singapore)
 ### Program
 
 
-SEE THE [TENTATIVE PROGRAM HERE](./AIRIA2018/AIRIA2018_PROGRAM.pdf)
+SEE THE [TENTATIVE PROGRAM HERE](./airia2018/AIRIA2018_PROGRAM.pdf)
 
 13:30-15:30: session 1: technical/oral papers
 
@@ -198,7 +198,8 @@ Delia Cabrera DeBuc, PhD, (Bascom Palmer Eye Institute,
 University of Miami Miller School of Medicine, USA).
 Title: "Recent developments in retinal analysis for individuals with Alzheimer disease and potential AI applications"
  
-[//]: # (Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore).Title: "Generalization and Casuality in A.I. Modelling")
+[//]: # (Gilbert Lim, PhD (National University of Singapore School of Computing, Singapore).
+Title: "Generalization and Casuality in A.I. Modelling")
  
 [//]: # (Tien Y Wong, MD, PhD (SingHealth/SERI, Singapore). Title: "The Importance of Artificial Intelligence Applications in Ophthalmology")
 
