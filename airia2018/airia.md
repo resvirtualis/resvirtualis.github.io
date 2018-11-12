@@ -149,7 +149,7 @@ Tien Y Wong (SingHealth /SERI, Singapore)
 ### Program
 
 
-SEE THE [TENTATIVE PROGRAM HERE](./airia2018/AIRIA2018_PROGRAM.pdf)
+SEE THE [TENTATIVE PROGRAM HERE](./AIRIA2018_PROGRAM.pdf)
 
 13:30-15:30: session 1: technical/oral papers
 
