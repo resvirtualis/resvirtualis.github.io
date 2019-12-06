@@ -2,19 +2,23 @@
 [[home]](./index.html)
 [[about]](./about.html)
 [[papers]](./papers.html)
-[[resources]](./resources.html)
+[[research]](./research.html)
 [[CV]](./cv.html)
 [[other]](./other.html)
 
 &nbsp;&nbsp;&nbsp;
 
-# Full list of recent and past papers
+### Full list from google scholar
+
+---
 
 [most recent papers from google scholar](https://scholar.google.com/citations?hl=en&user=R2WeuqAAAAAJ&view_op=list_works&sortby=pubdate)
 
 [google scholar search](https://scholar.google.com/scholar?hl=en&q=philippe+burlina&btnG=&as_sdt=1%2C21&as_sdtp=)
 
-# Some recent papers ...
+### Sample Papers
+
+---
 
 [1]	P. Burlina, et al. "Automated Grading of Age-Related Macular Degeneration From Color Fundus Images Using Deep Convolutional Neural Networks." JAMA ophthalmology, 2017.
 
