@@ -24,17 +24,17 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 [Faculty / Johns Hopkins University School of Medicine Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
 
--Faculty, JHU MCEH, Malone Center for Engineering in Healthcare
+Faculty, JHU MCEH, Malone Center for Engineering in Healthcare
 
 ### Previous Positions
 
 ---
 
--Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
+Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
 
--V.P. Engineering / <a href="http://sourceforge.net/projects/egrail-source/">eGrail</a>  (purchased by FileNET)
+V.P. Engineering / <a href="http://sourceforge.net/projects/egrail-source/">eGrail</a>  (later became part of FileNET)
 
--Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(purchased by SET/SAIC/Leidos)
+Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(later became part of SET/SAIC/Leidos)
 
 ### Areas of Work/Research
 
