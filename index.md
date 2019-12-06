@@ -8,14 +8,15 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 ## About
-
+---
 My work is on machine intelligence algorithmic development with areas of focus on: generative models, online learning, domain adaptation, low-shot learning, anomaly detection, AI assurance including machine deception, adversarial machine learning, and addressing bias and privacy in AI. I lead teams and design AI algorithms that are impactful for problems in healthcare and robotics. 
 
-[Publications](bit.ly/burl_papers)
+[Publications](http://bit.ly/burl_papers)
 
 [About](./about.html)
 
 ## Recent
+---
 
 [CVPR 2019 paper accepted: "Where is Wally?"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
 
@@ -34,8 +35,8 @@ My work is on machine intelligence algorithmic development with areas of focus o
 
 [Nature Medicine paper accepted](https://www.nature.com/articles/s41591-018-0029-3)
 
-## Research Areas
-
+## Research
+---
 ### Zero / X-shot learning / learning in low training data regimes
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
 
