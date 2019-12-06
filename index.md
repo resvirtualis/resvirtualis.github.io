@@ -7,19 +7,34 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-# About
+## About
 
-[about](./about.html)
+My work is on machine intelligence algorithmic development with areas of focus on: generative models, online learning, domain adaptation, low-shot learning, anomaly detection, AI assurance including machine deception, adversarial machine learning, and addressing bias and privacy in AI. I lead teams and design AI algorithms that are impactful for problems in healthcare and robotics. 
 
-# Recent/news
+[Publications](bit.ly/burl_papers)
 
-- Announcing the first workshop on artificial intelligence for retinal image analysis [AIRIA 2018](https://resvirtualis.github.io/airia2018/) to be held in conjunction with [ACCV 2018](http://accv2018.net) in Perth, AU.
+[About](./about.html)
 
-- [APTOS 2018](http://2018.asiateleophth.org/invited-faculty/)  
+## Recent
 
-- [ARVO 2018 special interest group meeting on AI for retinal imaging](https://www.arvo.org/annual-meeting/program/special-interest-group-meetings/)
+[CVPR 2019 paper accepted: "Where is Wally?"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
 
-# Work/Research/Projects
+[Chair, AIRIA 2018, workshop on Artificial Intelligence for Retinal Image Analysis](https://resvirtualis.github.io/airia2018/) held in conjunction with [ACCV 2018](http://accv2018.net) in Perth, AU.
+
+[invited talk: "AI for Medical Imaging", 2018, Kyoto University](https://www.kyoto-u.ac.jp/en/)
+
+[invited talk, Nagoya University, 2018](http://en.nagoya-u.ac.jp)
+
+
+[Plenary/invited talk: APTOS 2018, "AI for retinal image analysis"](http://2018.asiateleophth.org/invited-faculty/)  
+
+[Plenary/invited talk: ARVO 2018 SIG: AI for retinal imaging](https://www.arvo.org/annual-meeting/program/special-interest-group-meetings/)
+
+[Invited talk: DRCR](https://public.jaeb.org/drcrnet)
+
+[Nature Medicine paper accepted](https://www.nature.com/articles/s41591-018-0029-3)
+
+## Research Areas
 
 ### Zero / X-shot learning / learning in low training data regimes
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
@@ -74,5 +89,5 @@
 
 [distributed vision sensors, consensus pose estimation](http://icwww.epfl.ch/~jorstad/Files/Distributed_Consensus_on_Camera_Pose.pdf)
 
-## Resources
+### Misc
 [interesting paper summaries](./paper_summaries.html)
