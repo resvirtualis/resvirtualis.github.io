@@ -18,13 +18,17 @@ My work is on machine intelligence algorithmic development with areas of focus o
 ## Recent
 ---
 
-[CVPR 2019 paper accepted: "Where is Wally?"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
+[Accepted: CVPR 2019 paper: "Where is Wally?"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
+
+[News: Leveraging Deep Learning for Eye Health Requires More Attention to Technical, Clinical Considerations](https://www.jhuapl.edu/PressRelease/190620)
 
 [Chair, AIRIA 2018, workshop on Artificial Intelligence for Retinal Image Analysis](https://resvirtualis.github.io/airia2018/) held in conjunction with [ACCV 2018](http://accv2018.net) in Perth, AU.
 
-[invited talk: "AI for Medical Imaging", 2018, Kyoto University](https://www.kyoto-u.ac.jp/en/)
+[News: Computer-Aided Identification of Lyme Disease Rashes](https://www.hopkinsmedicine.org/news/articles/computer-aided-identification-of-lyme-disease-rashes)
 
-[invited talk, Nagoya University, 2018](http://en.nagoya-u.ac.jp)
+[Invited talk: "AI for Medical Imaging", 2018, Kyoto University](https://www.kyoto-u.ac.jp/en/)
+
+[Invited talk, Nagoya University, 2018](http://en.nagoya-u.ac.jp)
 
 
 [Plenary/invited talk: APTOS 2018, "AI for retinal image analysis"](http://2018.asiateleophth.org/invited-faculty/)  
@@ -33,7 +37,9 @@ My work is on machine intelligence algorithmic development with areas of focus o
 
 [Invited talk: DRCR](https://public.jaeb.org/drcrnet)
 
-[Nature Medicine paper accepted](https://www.nature.com/articles/s41591-018-0029-3)
+[News: Johns Hopkins Research Points to Increasing Role of Artificial Intelligence in Medical Imaging and Diagnostics](https://www.jhuapl.edu/PressRelease/180628	)
+
+[Accepted: Nature Medicine](https://www.nature.com/articles/s41591-018-0029-3)
 
 ## Research
 ---

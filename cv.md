@@ -7,4 +7,4 @@
 
 # CV
 
-	[Phil Burlina CV](https://bit.ly/burl_short)
+[Phil Burlina CV](https://bit.ly/burl_short)
