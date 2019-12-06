@@ -7,4 +7,4 @@
 
 # CV
 
-[cv](./burlina_short.pdf)
+	[Phil Burlina CV](https://bit.ly/burl_short)
