@@ -14,7 +14,7 @@
 
 philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
-### Current position
+### Current Position
 ---
 
 [Principal scientist / JHUAPL Intelligent Systems Center](https://www.jhuapl.edu/isc)
@@ -26,7 +26,7 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 -Faculty, JHU MCEH, Malone Center for Engineering in Healthcare
 
-### Previous positions
+### Previous Positions
 
 ---
 
@@ -36,7 +36,7 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 -Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(purchased by SET/SAIC/Leidos)
 
-### Areas of expertise
+### Areas of Work/Research
 
 ---
 
@@ -58,7 +58,7 @@ Ph.D., M.S., Electrical Engineering, University of Maryland, College Park. (Comp
 Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Computer Science) (University of  Pennsylvania, Philadelphia, PA., Electrical Engineering)
 
 
-### Tools, languages, frameworks
+### Tools, Languages, Frameworks
 
 Matlab, Python, C++, Keras, pytorch, caffe, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
@@ -66,19 +66,23 @@ Matlab, Python, C++, Keras, pytorch, caffe, OpenCV, most Python data science lib
 
 [patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
 
-### Current and past collaborators
+### Current / Past Collaborators
 
-[Mauro Maggioni (JHUApplied Math and Statistics/Faculty)](http://www.math.jhu.edu/~mauro/)
 
-<a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (UMCP/EE Chair) </a> 
+
+<a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (JHU and UMCP) (MS/PhD advisor)</a> 
+
+<a href="http://www.umiacs.umd.edu/~lsd/"> L.S.Davis (UMCP and Amazon) (MS advisor)</a>
+
+[M. Maggioni](http://www.math.jhu.edu/~mauro/)
 
 <a href="https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=1&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwiviqiZi_zJAhVC5SYKHYaOA3UQFgggMAA&amp;url=http%3A%2F%2Fwww.cs.jhu.edu%2F~hager%2F&amp;usg=AFQjCNERhCo7ptBL7RzcIdxzYJLhXpZlkg&amp;sig2=OHIBjxXdTjv4BJr3COvptQ">G. Hager (JHU CS/Faculty) </a> 
 
-<a href="http://www.ee.iitm.ac.in/~raju/">AN Rajagopalan</a> 
+<a href="http://www.ee.iitm.ac.in/~raju/">A.N. Rajagopalan</a> 
 
 <a href="https://en.wikipedia.org/wiki/Azriel_Rosenfeld"> A. Rosenfeld</a>
 
-<a href="http://www.umiacs.umd.edu/~lsd/"> L.S.Davis</a>
+
 
 <a href="http://www.cfar.umd.edu/%7Edaniel/Site_2/Welcome.html">D. DeMenthon (Magic Leap) </a>
 
@@ -105,7 +109,9 @@ Matlab, Python, C++, Keras, pytorch, caffe, OpenCV, most Python data science lib
 <a href="http://www.ophtalmologie-lariboisiere.fr/fr/accueil/equipe">B.Dupas (Hopital Lariboisiere/ Chef de clinique-Assistant)</a>
 
 <a href="http://www.seas.gwu.edu/~eom/">K. Eom</a>
+
 <a href="http://www.umiacs.umd.edu/~lsd/">D. Herzka</a>
+
 <a href="https://www.hopkinsrheumatology.org/our-team/faculty/bio/jemima-albayda/"> J. Albayda (JHU Rheumatology/Faculty)</a>
 
 <a href="http://www.bme.jhu.edu/people/primary.php?id=370">E. McVeigh (JHU BME/Chair)</a>
