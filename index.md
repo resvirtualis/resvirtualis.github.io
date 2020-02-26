@@ -21,9 +21,11 @@ My work is on algorithmic development for machine intelligence with areas of foc
 
 [CVPR 2019 paper: "Where is Wally? Deep Generative and Discrimniative Embeddinigs for Anomaly Detection"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
 
+[News: Leveraging Deep Learning for Eye Health Requires More Attention to Technical, Clinical Considerations](https://www.jhuapl.edu/PressRelease/190620)
+
 [Press release: "Artificial Intelligence Could Help Diagnose Eye Conditions"](https://www.hopkinsmedicine.org/news/articles/artificial-intelligence-could-help-diagnose-eye-conditions)
 
-[News: Leveraging Deep Learning for Eye Health Requires More Attention to Technical, Clinical Considerations](https://www.jhuapl.edu/PressRelease/190620)
+
 
 [Chair, AIRIA 2018, workshop on Artificial Intelligence for Retinal Image Analysis](https://resvirtualis.github.io/airia2018/) held in conjunction with [ACCV 2018](http://accv2018.net) in Perth, AU.
 
