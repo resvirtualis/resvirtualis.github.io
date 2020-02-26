@@ -9,7 +9,7 @@
 
 ## About
 ---
-My work is on machine intelligence algorithmic development with areas of focus on: generative models, online learning, domain adaptation, low-shot learning, anomaly detection, AI assurance including machine deception, adversarial machine learning, and addressing bias and privacy in AI. I lead teams and design AI algorithms that are impactful for problems in healthcare and robotics. 
+My work is on algorithmic development for machine intelligence with areas of focus on: generative models, online learning, domain adaptation, low-shot learning, anomaly detection, AI assurance including machine deception, adversarial machine learning, and addressing bias and privacy in AI. I lead teams and design AI algorithms that are impactful for problems in healthcare and robotics. 
 
 [Publications](http://bit.ly/burl_papers)
 
@@ -17,14 +17,17 @@ My work is on machine intelligence algorithmic development with areas of focus o
 
 ## Recent
 ---
+[Press release: "JHU Researchers Begin to Tackle Bias in AI..""](https://www.jhuapl.edu/PressRelease/200218)
 
-[Accepted: CVPR 2019 paper	: "Where is Wally?"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
+[CVPR 2019 paper: "Where is Wally? Deep Generative and Discrimniative Embeddinigs for Anomaly Detection"](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
+
+[Press release: "Artificial Intelligence Could Help Diagnose Eye Conditions"](https://www.hopkinsmedicine.org/news/articles/artificial-intelligence-could-help-diagnose-eye-conditions)
 
 [News: Leveraging Deep Learning for Eye Health Requires More Attention to Technical, Clinical Considerations](https://www.jhuapl.edu/PressRelease/190620)
 
 [Chair, AIRIA 2018, workshop on Artificial Intelligence for Retinal Image Analysis](https://resvirtualis.github.io/airia2018/) held in conjunction with [ACCV 2018](http://accv2018.net) in Perth, AU.
 
-[News: Computer-Aided Identification of Lyme Disease Rashes](https://www.hopkinsmedicine.org/news/articles/computer-aided-identification-of-lyme-disease-rashes)
+[News release: "Computer-Aided Identification of Lyme Disease Rashes"](https://www.hopkinsmedicine.org/news/articles/computer-aided-identification-of-lyme-disease-rashes)
 
 [Invited talk: "AI for Medical Imaging", 2018, Kyoto University](https://www.kyoto-u.ac.jp/en/)
 
@@ -39,7 +42,9 @@ My work is on machine intelligence algorithmic development with areas of focus o
 
 [News: Johns Hopkins Research Points to Increasing Role of Artificial Intelligence in Medical Imaging and Diagnostics](https://www.jhuapl.edu/PressRelease/180628	)
 
-[Accepted: Nature Medicine](https://www.nature.com/articles/s41591-018-0029-3)
+[Nature medicine paper](https://www.nature.com/articles/s41591-018-0029-3)
+
+[Press release: Johns Hopkins APL, Wilmer Eye Institute to Develop Tools to Detect Age-Related Macular degeneration](https://www.jhuapl.edu/PressRelease/150901)
 
 ## Research
 ---
