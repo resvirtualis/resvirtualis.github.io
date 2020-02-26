@@ -1,9 +1,9 @@
-	[[home]](./index.html)
-	[[about]](./about.html)
-	[[papers]](./papers.html)
-	[[research]](./research.html)
-	[[CV]](./cv.html)
-	[[other]](./other.html)
+[[home]](./index.html)
+[[about]](./about.html)
+[[papers]](./papers.html)
+[[research]](./research.html)
+[[CV]](./cv.html)
+[[other]](./other.html)
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
