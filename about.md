@@ -7,8 +7,6 @@
 
 &nbsp;&nbsp;&nbsp;
 
-# Phil Burlina
-
 ### Contact
 ---
 
