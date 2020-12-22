@@ -15,7 +15,7 @@ My research work is on machine learning and the specific areas of: generative mo
 
 [About](./about.html)
 
-[research](./research.html)
+[Research](./research.html)
 
 ## Updates
 ---
