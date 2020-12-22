@@ -9,7 +9,7 @@
 
 ---
 
-### Friuli and misc
+### misc
 
 [Friuli Campanile di Val Montanaia](https://www.youtube.com/watch?v=2zEwzhMyLC0)
 
