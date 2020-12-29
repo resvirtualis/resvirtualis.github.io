@@ -1,10 +1,10 @@
 [[home]](./index.html)
 [[about]](./about.html)
-[[papers]](./papers.html)
 [[research]](./research.html)
+[[recent]](./news.html)
+[[papers]](./papers.html)
 [[CV]](./cv.html)
 [[other]](./other.html)
-
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 # Research
