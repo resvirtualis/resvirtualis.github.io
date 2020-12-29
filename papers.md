@@ -8,7 +8,7 @@
 
 &nbsp;&nbsp;&nbsp;
 
-### Full list from google scholar
+## Papers list from google scholar
 
 ---
 
@@ -16,7 +16,7 @@
 
 [google scholar search](https://scholar.google.com/scholar?hl=en&q=philippe+burlina&btnG=&as_sdt=1%2C21&as_sdtp=)
 
-### Sample Papers
+## Sample Papers
 
 ---
 

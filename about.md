@@ -8,12 +8,14 @@
 
 &nbsp;&nbsp;&nbsp;
 
-### Contact
+## Contact
+
 ---
 
 philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
-### Current Position
+## Current Position
+
 ---
 
 [Principal scientist / JHUAPL Intelligent Systems Center](https://www.jhuapl.edu/isc)
@@ -25,7 +27,7 @@ and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-director
 
 Faculty, JHU MCEH, Malone Center for Engineering in Healthcare
 
-### Previous Positions
+## Previous Positions
 
 ---
 
@@ -35,7 +37,7 @@ V.P. Engineering / <a href="http://sourceforge.net/projects/egrail-source/">eGra
 
 Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(later became part of SET/SAIC/Leidos)
 
-### Areas of Work/Research
+## Areas of Work/Research
 
 ---
 
@@ -48,7 +50,7 @@ Deep learning applications for medical diagnostics, biomedical image analysis, b
 
 Enterprise software systems and SDLC.
 
-### Education
+## Education
 
 ---
 
@@ -57,15 +59,15 @@ Ph.D., M.S., Electrical Engineering, University of Maryland, College Park. (Comp
 Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Computer Science) (University of  Pennsylvania, Philadelphia, PA., Electrical Engineering)
 
 
-### Tools, Languages, Frameworks
+## Tools, Languages, Frameworks
 
-Matlab, Python, C++, Keras, pytorch, caffe, OpenCV, most Python data science libraries, PHP, MySQL, ...
+Matlab, Python, C++, Keras, PyTorch, caffe, OpenCV, most Python data science libraries, PHP, MySQL, ...
 
-### Patents
+## Patents
 
 [patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
 
-### Current / Past Collaborators
+## Advisors, Collaborators
 
 
 

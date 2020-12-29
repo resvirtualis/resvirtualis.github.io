@@ -7,10 +7,12 @@
 [[other]](./other.html)
 &nbsp;&nbsp;&nbsp;&nbsp;
 
-# Research
+
+## Research focus, sample papers
+
 ---
 
-### Generative models, Semantic Atttributes, Disentanglement, AI Fairness
+## Generative models, Semantic Atttributes, Disentanglement, AI Fairness
 
 [Representation learning / Anomaly Detection](http://openaccess.thecvf.com/content_CVPR_2019/html/Burlina_Wheres_Wally_Now_Deep_Generative_and_Discriminative_Embeddings_for_Novelty_CVPR_2019_paper.html)
 
@@ -18,14 +20,14 @@
 
 [R\'{e} nyi Generative Adversarial Networks](https://arxiv.org/pdf/2006.02479.pdf)
 
-### Adversarial ML
+## Adversarial ML
 
 [Jacks of All Trades, Masters Of None: Addressing Distributional Shift and Obtrusiveness via Transparent Patch Attacks](https://arxiv.org/pdf/2005.00656)
 
 [Random Projections for Adversarial Attack Detection](https://arxiv.org/pdf/2012.06405.pdf)
 
 
-### Zero / Low-Shot Learning 
+## Zero / Low-Shot Learning 
 
 [Semantic Zero Shot Learning](http://ieeexplore.ieee.org/document/7424431/)
 
@@ -35,7 +37,7 @@
 
 
 
-### AI for Medical / Healthcare / Bio
+## AI for Medical / Healthcare / Bio
 
 [Low-shot deep learning of diabetic retinopathy with potential applications to address artificial intelligence bias in retinal diagnostics and rare ophthalmic diseases](https://jamanetwork.com/journals/jamaophthalmology/article-abstract/2770184)
 
@@ -43,13 +45,13 @@
 
 [AI-based detection of erythema migrans and disambiguation against other skin lesions](https://www.sciencedirect.com/science/article/pii/S0010482520303085)
 
-[Deep learning for rare muscle disease diagnostics](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184059)
+<!-- [Deep learning for rare muscle disease diagnostics](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0184059) -->
 
-[Deep learning / AMD diagnostics](http://ieeexplore.ieee.org/abstract/document/7493240/)
+<!-- [Deep learning / AMD diagnostics](http://ieeexplore.ieee.org/abstract/document/7493240/) -->
 
-[Unsupervised deep learning methods for interpretation of autistic patients facial expressions]()
+<!-- [Unsupervised deep learning methods for interpretation of autistic patients facial expressions]() -->
 
-[Machine learning + physics modeling applied to Mitral valve / cardiac surgery recommendation](https://link.springer.com/chapter/10.1007/978-3-642-13711-2_13#page-1)
+<!-- [Machine learning + physics modeling applied to Mitral valve / cardiac surgery recommendation](https://link.springer.com/chapter/10.1007/978-3-642-13711-2_13#page-1)
 
 [Patient specific cardiac surgery modeling](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3760036/)
 
@@ -64,15 +66,16 @@
 
 [Human level diagnostics ofAMD via deep learning](http://www.sciencedirect.com/science/article/pii/S0010482517300240)
 
-[Johns Hopkins APL, Wilmer Eye Institute to Develop Tools to Detect Age-Related Macular Degeneration](http://www.jhuapl.edu/newscenter/pressreleases/2015/150901.asp)
+[Johns Hopkins APL, Wilmer Eye Institute to Develop Tools to Detect Age-Related Macular Degeneration](http://www.jhuapl.edu/newscenter/pressreleases/2015/150901.asp) -->
 
-### Deep Reinforcement Learning
+## Deep Reinforcement Learning
 
 [DRL/robotic reaching](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w5/papers/Katyal_Leveraging_Deep_Reinforcement_CVPR_2017_paper.pdf)
 
 [DRL/robotic grasping](https://www.cs.jhu.edu/~areiter/JHU/Publications_files/2017-nips-drl.pdf)
 
-### Misc
+## Misc
+
 [Video tracking, efficient particle filtering](http://ieeexplore.ieee.org/document/5443441/)
 
 [Probability hypothesis density filters for tracking](http://fusion.isif.org/proceedings/fusion09CD/data/papers/0115.pdf)
