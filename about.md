@@ -22,9 +22,10 @@ philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
 Associate Research Professor / Johns Hopkins University Dept. of Computer Science
 
+[Faculty, JHU MCEH, Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/people/philippe-burlina/)
+
 [Faculty / Johns Hopkins University School of Medicine, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
 
-[Faculty, JHU MCEH, Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/people/philippe-burlina/)
 
 ## Previous Positions
 
@@ -32,9 +33,9 @@ Associate Research Professor / Johns Hopkins University Dept. of Computer Scienc
 
 Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
 
-V.P. Engineering / <a href="http://sourceforge.net/projects/egrail-source/">eGrail</a>  (later became part of FileNET)
+V.P. Engineering / <a href="http://sourceforge.net/projects/egrail-source/">eGrail</a>  (purchased by FileNET)
 
-Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(later became part of SET/SAIC/Leidos)
+Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(now part of SAIC/Leidos)
 
 ## Areas of Work/Research
 
@@ -61,14 +62,44 @@ Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Comp
 
 ## Tools, Languages, Frameworks
 
+---
+
 Python, PyTorch, Keras, OpenCV, Python data science libraries, C++, Matlab, PHP, MySQL, ...
 
 ## Patents
 
+---
+
 [patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
+
+## Recent Papers
+
+---
+
+W Paul, IJ Wang, F Alajaji, P Burlina, Unsupervised Discovery, Control, and Disentanglement of Semantic Attributes With Applications to Anomaly Detection, Neural Computation 33 (3), 802-826
+
+Bo Hui, Yuchen Yang, Haolin Yuan, Philippe Burlina, Neil Gong, and Yinzhi Cao, Practical Blind Membership Inference Attack via Differential Comparisons, in the Proceedings of Network & Distributed System Security Symposium (NDSS), 2021. 
+
+N Joshi, P Burlina, AI Fairness via Domain Adaptation, arXiv preprint arXiv:2104.01109
+
+N Drenkow, P Burlina, N Fendley, O Odoemene, J Markowitz, Addressing Visual Search in Open and Closed Set Settings, IEEE/CVF Conference on Computer Vision and Pattern Rec, Workshop Geo., 2021.
+
+W Paul, A Hadzic, N Joshi, F Alajaji, P Burlina, TARA: Training and Representation Alteration for AI Fairness and Domain Generalization, arXiv preprint arXiv:2012.06387
+
+N Drenkow, N Fendley, P Burlina, Random Projections for Adversarial Attack Detection, arXiv preprint arXiv:2012.06405
+
+P Burlina, W Paul, P Mathew, N Joshi, KD Pacheco, NM Bressler, Low-shot deep learning of diabetic retinopathy with potential applications to address artificial intelligence bias in retinal diagnostics and rare ophthalmic diseases, JAMA ophthalmology 138 (10), 1070-1077	10	2020
+
+PM Burlina, W Paul, PA Mathew, NJ Joshi, AW Rebman, JN Aucott, AI Progress in Skin Lesion Analysis, arXiv preprint arXiv:2009.13323, and COmputers in Bio and Medicine, 2020
+
+N Fendley, M Lennon, IJ Wang, P Burlina, N Drenkow, Jacks of All Trades, Masters of None: Addressing Distributional Shift and Obtrusiveness via Transparent Patch Attacks, European Conference on Computer Vision, 105-119		2020
+
+H Bhatia, W Paul, F Alajaji, B Gharesifard, P Burlina, R\'{e} nyi Generative Adversarial Networks, arXiv preprint arXiv:2006.02479, Neural Computation, to appear, 2021.
+
 
 ## Advisors, Mentors, Collaborators
 
+---
 
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (JHU and UMCP) (MS/PhD advisor)</a> 
 
