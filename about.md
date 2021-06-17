@@ -20,7 +20,7 @@ philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
 [Principal scientist / JHU/APL Intelligent Systems Center](https://www.jhuapl.edu/isc)
 
-[Associate Research Professor / Johns Hopkins University Dept. of Computer Science] (http://www.cs.jhu.edu/)
+Associate Research Professor / Johns Hopkins University Dept. of Computer Science
 
 [Faculty / Johns Hopkins University School of Medicine, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
 
