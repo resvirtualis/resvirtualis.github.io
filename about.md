@@ -8,6 +8,12 @@
 
 &nbsp;&nbsp;&nbsp;
 
+## About
+
+---
+
+My research work is in machine vision and machine learning problems / algorithms / systems that are impactful for AI robustness / trust / assurance, including: AI fairness, privacy, adversarial machine learning, domain adaptation, low shot, anomaly detection. I lead teams and design AI algorithms that are impactful for applications of AI in computer vision, autonomy, and healthcare. 
+
 ## Contact
 
 ---
@@ -72,7 +78,12 @@ Python, PyTorch, Keras, OpenCV, Python data science libraries, C++, Matlab, PHP,
 
 [patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
 
-## Recent Papers
+## Papers
+
+[most recent papers from google scholar](https://scholar.google.com/citations?hl=en&user=R2WeuqAAAAAJ&view_op=list_works&sortby=pubdate)
+
+
+## Sample Papers
 
 ---
 
