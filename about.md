@@ -18,14 +18,13 @@ philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
 ---
 
-[Principal scientist / JHUAPL Intelligent Systems Center](https://www.jhuapl.edu/isc)
+[Principal scientist / JHU/APL Intelligent Systems Center](https://www.jhuapl.edu/isc)
 
-[Associate Professor (research) / Johns Hopkins University Dept. of Computer Science] (http://www.cs.jhu.edu/)
-and [Whiting School of Engineering](https://ep.jhu.edu/about-us/faculty-directory/1021-philippe-burlina)
+[Associate Research Professor / Johns Hopkins University Dept. of Computer Science] (http://www.cs.jhu.edu/)
 
-[Faculty / Johns Hopkins University School of Medicine Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
+[Faculty / Johns Hopkins University School of Medicine, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
 
-Faculty, JHU MCEH, Malone Center for Engineering in Healthcare
+[Faculty, JHU MCEH, Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/people/philippe-burlina/)
 
 ## Previous Positions
 
@@ -41,34 +40,34 @@ Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=19
 
 ---
 
-Machine intelligence, deep learning, machine perception, machine learning, computer vision. 
+Machine vision, machine learning, machine intelligence, deep learning. 
 
-Generative models, online learning, domain adaptation, low-shot learning, anomaly detection, AI assurance including machine deception, adversarial machine learning, and addressing bias and privacy in AI. 
+Assured AI, trusted AI, AI fairness and privacy, domain adaptation, low-shot learning, anomaly detection, adversarial machine learning. 
 
+Generative models.
 
-Deep learning applications for medical diagnostics, biomedical image analysis, bioimaging
+Deep learning applications in autonomy, medical diagnostics, biomedical image analysis.
 
-Enterprise software systems and SDLC.
+Enterprise software development.
 
 ## Education
 
 ---
 
-Ph.D., M.S., Electrical Engineering, University of Maryland, College Park. (Computer Vision)
+Ph.D. and M.S., Electrical Engineering, University of Maryland, College Park. (Computer Vision)
 
 Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Computer Science) (University of  Pennsylvania, Philadelphia, PA., Electrical Engineering)
 
 
 ## Tools, Languages, Frameworks
 
-Matlab, Python, C++, Keras, PyTorch, caffe, OpenCV, most Python data science libraries, PHP, MySQL, ...
+Python, PyTorch, Keras, OpenCV, Python data science libraries, C++, Matlab, PHP, MySQL, ...
 
 ## Patents
 
 [patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
 
-## Advisors, Collaborators
-
+## Advisors, Mentors, Collaborators
 
 
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (JHU and UMCP) (MS/PhD advisor)</a> 
@@ -82,8 +81,6 @@ Matlab, Python, C++, Keras, PyTorch, caffe, OpenCV, most Python data science lib
 <a href="http://www.ee.iitm.ac.in/~raju/">A.N. Rajagopalan</a> 
 
 <a href="https://en.wikipedia.org/wiki/Azriel_Rosenfeld"> A. Rosenfeld</a>
-
-
 
 <a href="http://www.cfar.umd.edu/%7Edaniel/Site_2/Welcome.html">D. DeMenthon (Magic Leap) </a>
 
