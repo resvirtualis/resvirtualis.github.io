@@ -12,7 +12,7 @@
 
 ---
 
-My research work is in machine vision and machine learning problems / algorithms / systems that are impactful for AI robustness / trust / assurance, including: AI fairness, privacy, adversarial machine learning, domain adaptation, low shot, anomaly detection. I lead teams and design AI algorithms that are impactful for applications of AI in computer vision, autonomy, and healthcare. 
+My work deals with machine vision and machine learning challenges that are impactful for AI robustness / trust / assurance, as applied to autonomous vehicles, healthcare, computer vision, autonomy, including problems in detection, recognition, self-supervised learning, foundation models, trust in digital assets stemming from generative AI, AI privacy, adversarial ML, domain adaptation, low shot, anomaly detection. I am an IC, I lead x-func teams and design/develop AI modules in eitheer production grade or R&D enviroments. 
 
 ## Contact
 
@@ -20,22 +20,19 @@ My research work is in machine vision and machine learning problems / algorithms
 
 philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
-## Current Position
+## Positions
 
 ---
 
-[Principal scientist / JHU/APL Intelligent Systems Center](https://www.jhuapl.edu/isc)
+[Senior Staff Software Engineer / Perception / Zoox (Amazon) 2022-2025 ](https://www.zoox.com)
+
+[Principal scientist / JHU/APL Intelligent Systems Center 2003-2022](https://www.jhuapl.edu/isc)
 
 Associate Research Professor / Johns Hopkins University Dept. of Computer Science
 
 [Faculty, JHU MCEH, Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/people/philippe-burlina/)
 
 [Faculty / Johns Hopkins University School of Medicine, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
-
-
-## Previous Positions
-
----
 
 Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
 
@@ -70,7 +67,7 @@ Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Comp
 
 ---
 
-Python, PyTorch, Keras, OpenCV, Python data science libraries, C++, Matlab, PHP, MySQL, ...
+Python, PyTorch, OpenCV, Python ML and data science toolboxes, C++, Matlab, PHP, MySQL, ...
 
 ## Patents
 
@@ -86,6 +83,9 @@ Python, PyTorch, Keras, OpenCV, Python data science libraries, C++, Matlab, PHP,
 ## Sample Papers
 
 ---
+
+Bo Hui, Haolin Yuan, Neil Gong, Philippe Burlina, Yinzhi Cao, PLeak: Prompt Leaking Attacks against Large Language Model Applications, Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security, 2024
+
 
 W Paul, IJ Wang, F Alajaji, P Burlina, Unsupervised Discovery, Control, and Disentanglement of Semantic Attributes With Applications to Anomaly Detection, Neural Computation 33 (3), 802-826
 
