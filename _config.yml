@@ -1,3 +1,9 @@
-theme: jekyll-theme-cayman
-title: ResVirtualis
-show_github: false
+remote_theme: "mmistakes/minimal-mistakes"
+title: Res Virtualis
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+
+# theme: jekyll-theme-cayman
+# title: ResVirtualis
+# show_github: false
