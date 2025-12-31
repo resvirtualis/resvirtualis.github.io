@@ -1,6 +1,8 @@
 
 # Philippe Burlina
 
+[LinkedIn contact](https://www.linkedin.com/in/philippe-burlina-1a528281/) | DC Area | BS CS, MS/PhD EE | US Citizen
+
 Download CV PDF [Phil Burlina CV](./burl_short.pdf)
 
 
@@ -16,19 +18,23 @@ My work deals with machine vision and machine learning challenges that are impac
 
 philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
-## Positions
+## Recent Positions
 
 ---
 
 [Senior Staff Software Engineer / Perception / Zoox (Amazon) 2022-2025 ](https://www.zoox.com)
 
-[Principal scientist / JHU/APL Intelligent Systems Center 2003-2022](https://www.jhuapl.edu/isc)
+[Principal scientist / JHU/APL Intelligent Systems Center 2012-2022](https://www.jhuapl.edu/isc)
 
 Associate Research Professor / Johns Hopkins University Dept. of Computer Science
 
 [Faculty, JHU MCEH, Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/people/philippe-burlina/)
 
 [Faculty / Johns Hopkins University School of Medicine, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
+
+## Earlier Leadership Roles
+
+---
 
 Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
 
@@ -42,11 +48,9 @@ Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=19
 
 Machine vision, machine learning, machine intelligence, deep learning. 
 
-Assured AI, trusted AI, AI fairness and privacy, domain adaptation, low-shot learning, anomaly detection, adversarial machine learning. 
+Assured AI, trusted AI, Trusted Generative AI, AI privacy, domain adaptation, low-shot learning, anomaly detection, adversarial machine learning, generative models.
 
-Generative models.
-
-Deep learning applications in autonomy, medical diagnostics, biomedical image analysis.
+Deep learning applications in autonomous vehicles, autonomy, medical diagnostics, biomedical image analysis.
 
 Enterprise software development.
 
@@ -59,11 +63,12 @@ Ph.D. and M.S., Electrical Engineering, University of Maryland, College Park. (C
 Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Computer Science) (University of  Pennsylvania, Philadelphia, PA., Electrical Engineering)
 
 
-## Tools, Languages, Frameworks
+## Languages
 
 ---
 
 Python, PyTorch, OpenCV, Python ML and data science toolboxes, C++, Matlab, PHP, MySQL, ...
+Fluent English, Italian, French
 
 ## Patents
 
@@ -104,7 +109,7 @@ N Fendley, M Lennon, IJ Wang, P Burlina, N Drenkow, Jacks of All Trades, Masters
 H Bhatia, W Paul, F Alajaji, B Gharesifard, P Burlina, R\'{e} nyi Generative Adversarial Networks, arXiv preprint arXiv:2006.02479, Neural Computation, to appear, 2021.
 
 
-## Advisors, Mentors, Collaborators
+## Advisors, Mentors, and Collaborators
 
 ---
 
