@@ -1,6 +1,8 @@
 ---
+layout: default
 title: Philippe Burlina
 ---
+
 
 [Philippe Burlina CV PDF](./burlina_philippe_cv_26.pdf) | [LinkedIn contact](https://www.linkedin.com/in/philippe-burlina-1a528281/) | DC Area | BS CS, MS/PhD EE | US Citizen
 
