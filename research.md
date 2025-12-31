@@ -1,6 +1,6 @@
-
-## Research focus, sample papers
-
+---
+layout: default_noheader
+title: Research
 ---
 
 ## Adversarial, LLM Attacks
