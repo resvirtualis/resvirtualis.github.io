@@ -1,16 +1,12 @@
-[[home]](./index.html)
-[[about]](./about.html)
-[[research]](./research.html)
-[[recent]](./news.html)
-[[papers]](./papers.html)
-[[CV]](./cv.html)
-[[other]](./other.html)
-&nbsp;&nbsp;&nbsp;&nbsp;
-
 
 ## Research focus, sample papers
 
 ---
+
+## Adversarial, LLM Attacks
+
+[PLeak: Prompt Leaking Attacks against Large Language Model Applications, Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security, Bo Hui, Haolin Yuan, Neil Gong, Philippe Burlina, Yinzhi Cao, 2024](https://dl.acm.org/doi/abs/10.1145/3658644.3670370)
+
 
 ## Generative models, Semantic Atttributes, Disentanglement, AI Fairness
 
@@ -20,7 +16,7 @@
 
 [R\'{e} nyi Generative Adversarial Networks](https://arxiv.org/pdf/2006.02479.pdf)
 
-## Adversarial ML
+## Other Adversarial ML
 
 [Jacks of All Trades, Masters Of None: Addressing Distributional Shift and Obtrusiveness via Transparent Patch Attacks](https://arxiv.org/pdf/2005.00656)
 
