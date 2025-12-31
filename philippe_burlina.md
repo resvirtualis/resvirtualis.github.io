@@ -1,5 +1,5 @@
 ---
-layout: blank
+layout: default_noheader
 title: Philippe Burlina
 ---
 
