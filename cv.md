@@ -3,20 +3,20 @@
 
 [LinkedIn contact](https://www.linkedin.com/in/philippe-burlina-1a528281/) | DC Area | BS CS, MS/PhD EE | US Citizen
 
-Download CV PDF [Phil Burlina CV](./burl_short.pdf)
+[Philippe Burlina CV PDF](./burlina_philippe_cv_26.pdf)
 
 
 ## About
 
 ---
 
-My work deals with machine vision and machine learning challenges that are impactful for AI robustness / trust / assurance, as applied to autonomous vehicles, healthcare, computer vision, autonomy, including problems in detection, recognition, self-supervised learning, foundation models, trust in digital assets stemming from generative AI, AI privacy, adversarial ML, domain adaptation, low shot, anomaly detection. I am an IC, I lead x-func teams and design/develop AI modules in eitheer production grade or R&D enviroments. 
+My work deals with machine vision and machine learning challenges that are impactful for AI robustness / trust / assurance, as applied to autonomous vehicles, healthcare, computer vision, autonomy, including problems in detection, recognition, self-supervised learning, foundation models, trust in digital assets stemming from generative AI, AI privacy, adversarial ML, domain adaptation, low shot, anomaly detection. I am an IC, I lead x-func teams and design/develop AI modules in either production grade or R&D enviroments. 
 
 ## Contact
 
 ---
 
-philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
+[LinkedIn contact](https://www.linkedin.com/in/philippe-burlina-1a528281/)
 
 ## Recent Positions
 
@@ -26,11 +26,7 @@ philippe [(dot)] burlina ([hat]) gee m ail ([dot]) c o m
 
 [Principal scientist / JHU/APL Intelligent Systems Center 2012-2022](https://www.jhuapl.edu/isc)
 
-Associate Research Professor / Johns Hopkins University Dept. of Computer Science
-
-[Faculty, JHU MCEH, Malone Center for Engineering in Healthcare](https://malonecenter.jhu.edu/people/philippe-burlina/)
-
-[Faculty / Johns Hopkins University School of Medicine, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
+Associate Research Professor / Johns Hopkins University Dept. of Computer Science, [Faculty, JHU MCEH](https://malonecenter.jhu.edu/people/philippe-burlina/), [Faculty / JHU/SOM, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
 
 ## Earlier Leadership Roles
 
@@ -74,7 +70,7 @@ Fluent English, Italian, French
 
 ---
 
-[patents](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=)
+[patents]([https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=](https://patents.google.com/?inventor=burlina%20philippe&sort=new))
 
 ## Papers
 
