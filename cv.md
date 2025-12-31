@@ -8,29 +8,21 @@
 
 ## About
 
----
-
 My work deals with machine vision and machine learning challenges that are impactful for AI robustness / trust / assurance, as applied to autonomous vehicles, healthcare, computer vision, autonomy, including problems in detection, recognition, self-supervised learning, foundation models, trust in digital assets stemming from generative AI, AI privacy, adversarial ML, domain adaptation, low shot, anomaly detection. I am an IC, I lead x-func teams and design/develop AI modules in either production grade or R&D enviroments. 
 
 ## Contact
-
----
 
 [LinkedIn contact](https://www.linkedin.com/in/philippe-burlina-1a528281/)
 
 ## Recent Positions
 
----
-
 [Senior Staff Software Engineer / Perception / Zoox (Amazon) 2022-2025 ](https://www.zoox.com)
 
 [Principal scientist / JHU/APL Intelligent Systems Center 2012-2022](https://www.jhuapl.edu/isc)
 
-Associate Research Professor / Johns Hopkins University Dept. of Computer Science, [Faculty, JHU MCEH](https://malonecenter.jhu.edu/people/philippe-burlina/), [Faculty / JHU/SOM, Wilmer Eye Institute](http://www.hopkinsmedicine.org/wilmer/)
+Associate Res. Prof. / Johns Hopkins University Dept. of Comp. Sci., [Faculty, JHU MCEH](https://malonecenter.jhu.edu/people/philippe-burlina/), [Faculty / JHU/SOM/Wilmer Eye Inst.](http://www.hopkinsmedicine.org/wilmer/)
 
 ## Earlier Leadership Roles
-
----
 
 Director, software development / <a href="http://www-01.ibm.com/software/data/content-management/filenet-content-manager/">FileNET</a> (now part of IBM)
 
@@ -39,8 +31,6 @@ V.P. Engineering / <a href="http://sourceforge.net/projects/egrail-source/">eGra
 Co-founder and tech lead / <a href="http://investors.saic.com/phoenix.zhtml?c=193857&amp;p=irol-newsarticle&amp;id=1438859">ImageCorp </a>(now part of SAIC/Leidos)
 
 ## Areas of Work/Research
-
----
 
 Machine vision, machine learning, machine intelligence, deep learning. 
 
@@ -52,25 +42,18 @@ Enterprise software development.
 
 ## Education
 
----
-
 Ph.D. and M.S., Electrical Engineering, University of Maryland, College Park. (Computer Vision)
 
 Diplôme d’Ingénieur, Université de Technologie de Compiègne, France. (Computer Science) (University of  Pennsylvania, Philadelphia, PA., Electrical Engineering)
 
-
 ## Languages
-
----
 
 Python, PyTorch, OpenCV, Python ML and data science toolboxes, C++, Matlab, PHP, MySQL, ...
 Fluent English, Italian, French
 
 ## Patents
 
----
-
-[patents]([https://scholar.google.com/scholar?hl=en&as_sdt=0%2C21&q=philippe+burlina+patent&btnG=](https://patents.google.com/?inventor=burlina%20philippe&sort=new))
+[patents](https://patents.google.com/?inventor=burlina%20philippe&sort=new)
 
 ## Papers
 
@@ -78,8 +61,6 @@ Fluent English, Italian, French
 
 
 ## Sample Papers
-
----
 
 Bo Hui, Haolin Yuan, Neil Gong, Philippe Burlina, Yinzhi Cao, PLeak: Prompt Leaking Attacks against Large Language Model Applications, Proceedings of the 2024 on ACM SIGSAC Conference on Computer and Communications Security, 2024
 
@@ -106,8 +87,6 @@ H Bhatia, W Paul, F Alajaji, B Gharesifard, P Burlina, R\'{e} nyi Generative Adv
 
 
 ## Advisors, Mentors, and Collaborators
-
----
 
 <a href="http://www.umiacs.umd.edu/%7Erama/">R. Chellappa (JHU and UMCP) (MS/PhD advisor)</a> 
 
