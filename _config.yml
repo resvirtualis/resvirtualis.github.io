@@ -1,8 +1,18 @@
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: just-the-docs/just-the-docs
 title: Res Virtualis
+color_scheme: light
+search_enabled: false
 plugins:
   - jekyll-remote-theme
-  - jekyll-include-cache
+
+
+
+
+# remote_theme: "mmistakes/minimal-mistakes"
+# title: Res Virtualis
+# plugins:
+#   - jekyll-remote-theme
+#   - jekyll-include-cache
 
 # theme: jekyll-theme-cayman
 # title: ResVirtualis
