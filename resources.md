@@ -1,5 +1,9 @@
-# PAPER SUMMARIES
+---
+layout: default_noheader
+title: Resources
+---
 
+# Papers
 
 interesting ML papers and ressources 
 
