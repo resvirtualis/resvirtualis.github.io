@@ -22,5 +22,5 @@ layout: blank
 </style>
 
 <div class="splash">
-  <img src="{{ './resvirtualis_logo_black_bgd.png' | relative_url }}" alt="Logo">
+  <img src="{{ './resvirtualis_logo_trans_bgd.png' | relative_url }}" alt="Logo">
 </div>
