@@ -1,49 +1,20 @@
 # PAPER SUMMARIES
 
 
-A list of some notable (*) or interesting papers in DL, with a short description loosely following this MD format
-```
-'***title, first author et al, year**
+interesting ML papers and ressources 
 
-- link: <>
-- code: <>
-- summary: 
-- approach:  
-- other:
-```
-(notes: the list is definitely not exhaustive nor definitive nor authoritative and a loose living document/sometimes et al. ommitted for brevity)
-
-## Books
-
-***Deep learning with Python, Cholet, 2017**
-
+## ML general resources
 - links <https://www.manning.com/books/deep-learning-with-python>
 - [chapter1](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-1/1)
 - [chapter 2](https://livebook.manning.com/#!/book/deep-learning-with-python/chapter-2/)
-
-
-***Deep Learning, Goodfellow, Bengio, Courville, 2016**
-
 - link: http://www.deeplearningbook.org/
 
-***Hands-On Learning with Scikit-Learn and Tensorflow, Geron, 2017**
-
-- link: <http://shop.oreilly.com/product/0636920052289.do>
-
 ## GANS
+GANs are now generative models surpased by other techniques like diffusion - but the idea of using a critic network continues to be used, as for example in domain adaptation.
+[Goodfellow GAN foundation paper](http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf)
+[nvidia pro GANs](http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf)
+part of the foundation papers by karras et al on stylegans here progan: train GAN by growing both the generator and discriminator progressively, aka basic autoencoder style
 
-***PROGRESSIVE GROWING OF GANS FOR IMPROVED QUALITY, STABILITY, AND VARIATION, karras, nvidia, 2018**
-
-- link <http://research.nvidia.com/sites/default/files/publications/karras2017gan-paper-v2.pdf>
-- summary: train GAN by growing both the generator and discriminator progressively, aka basic autoencoder style
-
-***Generative adversarial nets, Goodfellow et al, 2014**
-
-- link: <http://papers.nips.cc/paper/5423-generative-adversarial-nets.pdf>
-- code: several flavors using various frameworks available on github ...
-- summary:  original paper on GANs, learns 2 networks (a generator and a discriminator) with competing losses. The aim of the generator network is to map a random vector to a realistic image, the aim of the discriminator is to distinguish the generated from the real images.
-- approach:  
--  idea is to compete a generative model/network that does image synthesis and a discriminative model (which detects what is "fake/synthetic") both networks are "joined at the hip" via competing loss functions and a training procedure that is using minimax two player game: this trains / updates in alternance the weights of the image synthesis network, and the discriminator network. The end product of the procedure is both a discriminative and a generative model that become ever more competent. This two players minimax learning procedure is a foundation for the idea of many other subsequent papers using this "adversarial training" technique for improving the performance of a discriminative model.
 
 ***Learning from Simulated and Unsupervised Images through Adversarial Training, Shrivastava et al, Apple, 2017**
 
