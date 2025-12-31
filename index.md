@@ -1,6 +1,3 @@
----
-layout: blank
----
 
 <style>
   /* Full-page logo splash */
